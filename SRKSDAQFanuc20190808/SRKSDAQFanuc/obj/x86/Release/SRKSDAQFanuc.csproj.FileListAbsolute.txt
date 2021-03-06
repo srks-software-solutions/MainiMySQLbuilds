@@ -1,0 +1,152 @@
+D:\SRKS\Projects\CCSGroups-Bangkok\Development\SQL Build\DAQ\SRKSDAQFanuc\SRKSDAQFanuc\bin\x86\Release\SRKSDAQFanuc.exe.config
+D:\SRKS\Projects\CCSGroups-Bangkok\Development\SQL Build\DAQ\SRKSDAQFanuc\SRKSDAQFanuc\bin\x86\Release\SRKSDAQFanuc.exe
+D:\SRKS\Projects\CCSGroups-Bangkok\Development\SQL Build\DAQ\SRKSDAQFanuc\SRKSDAQFanuc\bin\x86\Release\SRKSDAQFanuc.pdb
+D:\SRKS\Projects\CCSGroups-Bangkok\Development\SQL Build\DAQ\SRKSDAQFanuc\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.csprojResolveAssemblyReference.cache
+D:\SRKS\Projects\CCSGroups-Bangkok\Development\SQL Build\DAQ\SRKSDAQFanuc\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.ProjectInstaller.resources
+D:\SRKS\Projects\CCSGroups-Bangkok\Development\SQL Build\DAQ\SRKSDAQFanuc\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.csproj.GenerateResource.cache
+D:\SRKS\Projects\CCSGroups-Bangkok\Development\SQL Build\DAQ\SRKSDAQFanuc\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.csproj.CoreCompileInputs.cache
+D:\SRKS\Projects\CCSGroups-Bangkok\Development\SQL Build\DAQ\SRKSDAQFanuc\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.exe
+D:\SRKS\Projects\CCSGroups-Bangkok\Development\SQL Build\DAQ\SRKSDAQFanuc\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.pdb
+D:\SRKS Software Solutions\SRKSDAQFanuc\SRKSDAQFanuc\bin\x86\Release\SRKSDAQFanuc.exe.config
+D:\SRKS Software Solutions\SRKSDAQFanuc\SRKSDAQFanuc\bin\x86\Release\SRKSDAQFanuc.exe
+D:\SRKS Software Solutions\SRKSDAQFanuc\SRKSDAQFanuc\bin\x86\Release\SRKSDAQFanuc.pdb
+D:\SRKS Software Solutions\SRKSDAQFanuc\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.csprojResolveAssemblyReference.cache
+D:\SRKS Software Solutions\SRKSDAQFanuc\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.ProjectInstaller.resources
+D:\SRKS Software Solutions\SRKSDAQFanuc\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.csproj.GenerateResource.Cache
+D:\SRKS Software Solutions\SRKSDAQFanuc\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.csproj.CoreCompileInputs.cache
+D:\SRKS Software Solutions\SRKSDAQFanuc\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.exe
+D:\SRKS Software Solutions\SRKSDAQFanuc\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.pdb
+D:\SRKS\Projects\2018\TVS\i-facility\DAQ\SRKSDAQFanuc\SRKSDAQFanuc\bin\x86\Release\SRKSDAQFanuc.exe.config
+D:\SRKS\Projects\2018\TVS\i-facility\DAQ\SRKSDAQFanuc\SRKSDAQFanuc\bin\x86\Release\SRKSDAQFanuc.exe
+D:\SRKS\Projects\2018\TVS\i-facility\DAQ\SRKSDAQFanuc\SRKSDAQFanuc\bin\x86\Release\SRKSDAQFanuc.pdb
+D:\SRKS\Projects\2018\TVS\i-facility\DAQ\SRKSDAQFanuc\SRKSDAQFanuc\bin\x86\Release\MySql.Data.dll
+D:\SRKS\Projects\2018\TVS\i-facility\DAQ\SRKSDAQFanuc\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.ProjectInstaller.resources
+D:\SRKS\Projects\2018\TVS\i-facility\DAQ\SRKSDAQFanuc\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.csproj.GenerateResource.cache
+D:\SRKS\Projects\2018\TVS\i-facility\DAQ\SRKSDAQFanuc\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.csproj.CoreCompileInputs.cache
+D:\SRKS\Projects\2018\TVS\i-facility\DAQ\SRKSDAQFanuc\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.csproj.CopyComplete
+D:\SRKS\Projects\2018\TVS\i-facility\DAQ\SRKSDAQFanuc\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.exe
+D:\SRKS\Projects\2018\TVS\i-facility\DAQ\SRKSDAQFanuc\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.pdb
+D:\Ashok\TVS\DAQ\20190125\SRKSDAQFanuc20190125\SRKSDAQFanuc\SRKSDAQFanuc\bin\x86\Release\SRKSDAQFanuc.exe.config
+D:\Ashok\TVS\DAQ\20190125\SRKSDAQFanuc20190125\SRKSDAQFanuc\SRKSDAQFanuc\bin\x86\Release\SRKSDAQFanuc.exe
+D:\Ashok\TVS\DAQ\20190125\SRKSDAQFanuc20190125\SRKSDAQFanuc\SRKSDAQFanuc\bin\x86\Release\SRKSDAQFanuc.pdb
+D:\Ashok\TVS\DAQ\20190125\SRKSDAQFanuc20190125\SRKSDAQFanuc\SRKSDAQFanuc\bin\x86\Release\MySql.Data.dll
+D:\Ashok\TVS\DAQ\20190125\SRKSDAQFanuc20190125\SRKSDAQFanuc\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.csprojResolveAssemblyReference.cache
+D:\Ashok\TVS\DAQ\20190125\SRKSDAQFanuc20190125\SRKSDAQFanuc\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.ProjectInstaller.resources
+D:\Ashok\TVS\DAQ\20190125\SRKSDAQFanuc20190125\SRKSDAQFanuc\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.csproj.GenerateResource.cache
+D:\Ashok\TVS\DAQ\20190125\SRKSDAQFanuc20190125\SRKSDAQFanuc\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.csproj.CoreCompileInputs.cache
+D:\Ashok\TVS\DAQ\20190125\SRKSDAQFanuc20190125\SRKSDAQFanuc\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.csproj.CopyComplete
+D:\Ashok\TVS\DAQ\20190125\SRKSDAQFanuc20190125\SRKSDAQFanuc\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.exe
+D:\Ashok\TVS\DAQ\20190125\SRKSDAQFanuc20190125\SRKSDAQFanuc\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.pdb
+D:\Ashok\SRKSDAQFanuc_TVS_Latest\SRKSDAQFanuc\SRKSDAQFanuc\bin\x86\Release\SRKSDAQFanuc.exe.config
+D:\Ashok\SRKSDAQFanuc_TVS_Latest\SRKSDAQFanuc\SRKSDAQFanuc\bin\x86\Release\SRKSDAQFanuc.exe
+D:\Ashok\SRKSDAQFanuc_TVS_Latest\SRKSDAQFanuc\SRKSDAQFanuc\bin\x86\Release\SRKSDAQFanuc.pdb
+D:\Ashok\SRKSDAQFanuc_TVS_Latest\SRKSDAQFanuc\SRKSDAQFanuc\bin\x86\Release\MySql.Data.dll
+D:\Ashok\SRKSDAQFanuc_TVS_Latest\SRKSDAQFanuc\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.csprojAssemblyReference.cache
+D:\Ashok\SRKSDAQFanuc_TVS_Latest\SRKSDAQFanuc\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.ProjectInstaller.resources
+D:\Ashok\SRKSDAQFanuc_TVS_Latest\SRKSDAQFanuc\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.csproj.GenerateResource.cache
+D:\Ashok\SRKSDAQFanuc_TVS_Latest\SRKSDAQFanuc\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.csproj.CoreCompileInputs.cache
+D:\Ashok\SRKSDAQFanuc_TVS_Latest\SRKSDAQFanuc\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.csproj.CopyComplete
+D:\Ashok\SRKSDAQFanuc_TVS_Latest\SRKSDAQFanuc\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.exe
+D:\Ashok\SRKSDAQFanuc_TVS_Latest\SRKSDAQFanuc\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.pdb
+D:\Ashok\TVS\DAQ\PAVAN\Latest DAQ\SRKSDAQFanuc\SRKSDAQFanuc\bin\x86\Release\SRKSDAQFanuc.exe.config
+D:\Ashok\TVS\DAQ\PAVAN\Latest DAQ\SRKSDAQFanuc\SRKSDAQFanuc\bin\x86\Release\SRKSDAQFanuc.exe
+D:\Ashok\TVS\DAQ\PAVAN\Latest DAQ\SRKSDAQFanuc\SRKSDAQFanuc\bin\x86\Release\SRKSDAQFanuc.pdb
+D:\Ashok\TVS\DAQ\PAVAN\Latest DAQ\SRKSDAQFanuc\SRKSDAQFanuc\bin\x86\Release\EntityFramework.dll
+D:\Ashok\TVS\DAQ\PAVAN\Latest DAQ\SRKSDAQFanuc\SRKSDAQFanuc\bin\x86\Release\EntityFramework.SqlServer.dll
+D:\Ashok\TVS\DAQ\PAVAN\Latest DAQ\SRKSDAQFanuc\SRKSDAQFanuc\bin\x86\Release\Google.Protobuf.dll
+D:\Ashok\TVS\DAQ\PAVAN\Latest DAQ\SRKSDAQFanuc\SRKSDAQFanuc\bin\x86\Release\MySql.Data.dll
+D:\Ashok\TVS\DAQ\PAVAN\Latest DAQ\SRKSDAQFanuc\SRKSDAQFanuc\bin\x86\Release\MySql.Data.EntityFramework.dll
+D:\Ashok\TVS\DAQ\PAVAN\Latest DAQ\SRKSDAQFanuc\SRKSDAQFanuc\bin\x86\Release\EntityFramework.xml
+D:\Ashok\TVS\DAQ\PAVAN\Latest DAQ\SRKSDAQFanuc\SRKSDAQFanuc\bin\x86\Release\EntityFramework.SqlServer.xml
+D:\Ashok\TVS\DAQ\PAVAN\Latest DAQ\SRKSDAQFanuc\SRKSDAQFanuc\bin\x86\Release\Google.Protobuf.xml
+D:\Ashok\TVS\DAQ\PAVAN\Latest DAQ\SRKSDAQFanuc\SRKSDAQFanuc\bin\x86\Release\MySql.Data.xml
+D:\Ashok\TVS\DAQ\PAVAN\Latest DAQ\SRKSDAQFanuc\SRKSDAQFanuc\bin\x86\Release\MySql.Data.EntityFramework.xml
+D:\Ashok\TVS\DAQ\PAVAN\Latest DAQ\SRKSDAQFanuc\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.ProjectInstaller.resources
+D:\Ashok\TVS\DAQ\PAVAN\Latest DAQ\SRKSDAQFanuc\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.csproj.GenerateResource.cache
+D:\Ashok\TVS\DAQ\PAVAN\Latest DAQ\SRKSDAQFanuc\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.csproj.CoreCompileInputs.cache
+D:\Ashok\TVS\DAQ\PAVAN\Latest DAQ\SRKSDAQFanuc\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.csproj.CopyComplete
+D:\Ashok\TVS\DAQ\PAVAN\Latest DAQ\SRKSDAQFanuc\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.exe
+D:\Ashok\TVS\DAQ\PAVAN\Latest DAQ\SRKSDAQFanuc\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.pdb
+G:\SRKSFaunq\SRKSDAQFanuc10052019\SRKSDAQFanuc\bin\x86\Release\SRKSDAQFanuc.exe.config
+G:\SRKSFaunq\SRKSDAQFanuc10052019\SRKSDAQFanuc\bin\x86\Release\SRKSDAQFanuc.exe
+G:\SRKSFaunq\SRKSDAQFanuc10052019\SRKSDAQFanuc\bin\x86\Release\SRKSDAQFanuc.pdb
+G:\SRKSFaunq\SRKSDAQFanuc10052019\SRKSDAQFanuc\bin\x86\Release\EntityFramework.xml
+G:\SRKSFaunq\SRKSDAQFanuc10052019\SRKSDAQFanuc\bin\x86\Release\EntityFramework.SqlServer.xml
+G:\SRKSFaunq\SRKSDAQFanuc10052019\SRKSDAQFanuc\bin\x86\Release\Google.Protobuf.xml
+G:\SRKSFaunq\SRKSDAQFanuc10052019\SRKSDAQFanuc\bin\x86\Release\MySql.Data.xml
+G:\SRKSFaunq\SRKSDAQFanuc10052019\SRKSDAQFanuc\bin\x86\Release\MySql.Data.EntityFramework.xml
+G:\SRKSFaunq\SRKSDAQFanuc10052019\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.csprojAssemblyReference.cache
+G:\SRKSFaunq\SRKSDAQFanuc10052019\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.ProjectInstaller.resources
+G:\SRKSFaunq\SRKSDAQFanuc10052019\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.csproj.GenerateResource.cache
+G:\SRKSFaunq\SRKSDAQFanuc10052019\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.csproj.CoreCompileInputs.cache
+G:\SRKSFaunq\SRKSDAQFanuc10052019\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.csproj.CopyComplete
+G:\SRKSFaunq\SRKSDAQFanuc10052019\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.exe
+G:\SRKSFaunq\SRKSDAQFanuc10052019\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.pdb
+D:\Ashok\TVS\TVSDAQEF\SRKSDAQFanuc10052019\SRKSDAQFanuc\bin\x86\Release\SRKSDAQFanuc.exe.config
+D:\Ashok\TVS\TVSDAQEF\SRKSDAQFanuc10052019\SRKSDAQFanuc\bin\x86\Release\SRKSDAQFanuc.exe
+D:\Ashok\TVS\TVSDAQEF\SRKSDAQFanuc10052019\SRKSDAQFanuc\bin\x86\Release\SRKSDAQFanuc.pdb
+D:\Ashok\TVS\TVSDAQEF\SRKSDAQFanuc10052019\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.ProjectInstaller.resources
+D:\Ashok\TVS\TVSDAQEF\SRKSDAQFanuc10052019\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.csproj.GenerateResource.cache
+D:\Ashok\TVS\TVSDAQEF\SRKSDAQFanuc10052019\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.csproj.CoreCompileInputs.cache
+D:\Ashok\TVS\TVSDAQEF\SRKSDAQFanuc10052019\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.csproj.CopyComplete
+D:\Ashok\TVS\TVSDAQEF\SRKSDAQFanuc10052019\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.exe
+D:\Ashok\TVS\TVSDAQEF\SRKSDAQFanuc10052019\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.pdb
+D:\Ashok\PLM\SRKSDAQFanuc10052019\SRKSDAQFanuc\bin\x86\Release\SRKSDAQFanuc.exe.config
+D:\Ashok\PLM\SRKSDAQFanuc10052019\SRKSDAQFanuc\bin\x86\Release\SRKSDAQFanuc.exe
+D:\Ashok\PLM\SRKSDAQFanuc10052019\SRKSDAQFanuc\bin\x86\Release\SRKSDAQFanuc.pdb
+D:\Ashok\PLM\SRKSDAQFanuc10052019\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.csprojAssemblyReference.cache
+D:\Ashok\PLM\SRKSDAQFanuc10052019\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.ProjectInstaller.resources
+D:\Ashok\PLM\SRKSDAQFanuc10052019\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.csproj.GenerateResource.cache
+D:\Ashok\PLM\SRKSDAQFanuc10052019\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.csproj.CoreCompileInputs.cache
+D:\Ashok\PLM\SRKSDAQFanuc10052019\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.csproj.CopyComplete
+D:\Ashok\PLM\SRKSDAQFanuc10052019\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.exe
+D:\Ashok\PLM\SRKSDAQFanuc10052019\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.pdb
+G:\MAINI DAQ\SRKSDAQFanuc20190808\SRKSDAQFanuc\bin\x86\Release\SRKSDAQFanuc.exe.config
+G:\MAINI DAQ\SRKSDAQFanuc20190808\SRKSDAQFanuc\bin\x86\Release\SRKSDAQFanuc.exe
+G:\MAINI DAQ\SRKSDAQFanuc20190808\SRKSDAQFanuc\bin\x86\Release\SRKSDAQFanuc.pdb
+G:\MAINI DAQ\SRKSDAQFanuc20190808\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.ProjectInstaller.resources
+G:\MAINI DAQ\SRKSDAQFanuc20190808\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.csproj.GenerateResource.cache
+G:\MAINI DAQ\SRKSDAQFanuc20190808\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.csproj.CoreCompileInputs.cache
+G:\MAINI DAQ\SRKSDAQFanuc20190808\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.csproj.CopyComplete
+G:\MAINI DAQ\SRKSDAQFanuc20190808\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.exe
+G:\MAINI DAQ\SRKSDAQFanuc20190808\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.pdb
+D:\Manini_Project\Backend_Apps\SRKSDAQFanuc20190808\SRKSDAQFanuc\bin\x86\Release\SRKSDAQFanuc.exe.config
+D:\Manini_Project\Backend_Apps\SRKSDAQFanuc20190808\SRKSDAQFanuc\bin\x86\Release\SRKSDAQFanuc.exe.manifest
+D:\Manini_Project\Backend_Apps\SRKSDAQFanuc20190808\SRKSDAQFanuc\bin\x86\Release\SRKSDAQFanuc.application
+D:\Manini_Project\Backend_Apps\SRKSDAQFanuc20190808\SRKSDAQFanuc\bin\x86\Release\SRKSDAQFanuc.exe
+D:\Manini_Project\Backend_Apps\SRKSDAQFanuc20190808\SRKSDAQFanuc\bin\x86\Release\SRKSDAQFanuc.pdb
+D:\Manini_Project\Backend_Apps\SRKSDAQFanuc20190808\SRKSDAQFanuc\bin\x86\Release\BouncyCastle.Crypto.dll
+D:\Manini_Project\Backend_Apps\SRKSDAQFanuc20190808\SRKSDAQFanuc\bin\x86\Release\EntityFramework.dll
+D:\Manini_Project\Backend_Apps\SRKSDAQFanuc20190808\SRKSDAQFanuc\bin\x86\Release\EntityFramework.SqlServer.dll
+D:\Manini_Project\Backend_Apps\SRKSDAQFanuc20190808\SRKSDAQFanuc\bin\x86\Release\Google.Protobuf.dll
+D:\Manini_Project\Backend_Apps\SRKSDAQFanuc20190808\SRKSDAQFanuc\bin\x86\Release\K4os.Compression.LZ4.dll
+D:\Manini_Project\Backend_Apps\SRKSDAQFanuc20190808\SRKSDAQFanuc\bin\x86\Release\K4os.Compression.LZ4.Streams.dll
+D:\Manini_Project\Backend_Apps\SRKSDAQFanuc20190808\SRKSDAQFanuc\bin\x86\Release\K4os.Hash.xxHash.dll
+D:\Manini_Project\Backend_Apps\SRKSDAQFanuc20190808\SRKSDAQFanuc\bin\x86\Release\MySql.Data.dll
+D:\Manini_Project\Backend_Apps\SRKSDAQFanuc20190808\SRKSDAQFanuc\bin\x86\Release\Renci.SshNet.dll
+D:\Manini_Project\Backend_Apps\SRKSDAQFanuc20190808\SRKSDAQFanuc\bin\x86\Release\System.Buffers.dll
+D:\Manini_Project\Backend_Apps\SRKSDAQFanuc20190808\SRKSDAQFanuc\bin\x86\Release\System.Memory.dll
+D:\Manini_Project\Backend_Apps\SRKSDAQFanuc20190808\SRKSDAQFanuc\bin\x86\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\Manini_Project\Backend_Apps\SRKSDAQFanuc20190808\SRKSDAQFanuc\bin\x86\Release\Ubiety.Dns.Core.dll
+D:\Manini_Project\Backend_Apps\SRKSDAQFanuc20190808\SRKSDAQFanuc\bin\x86\Release\Zstandard.Net.dll
+D:\Manini_Project\Backend_Apps\SRKSDAQFanuc20190808\SRKSDAQFanuc\bin\x86\Release\EntityFramework.xml
+D:\Manini_Project\Backend_Apps\SRKSDAQFanuc20190808\SRKSDAQFanuc\bin\x86\Release\EntityFramework.SqlServer.xml
+D:\Manini_Project\Backend_Apps\SRKSDAQFanuc20190808\SRKSDAQFanuc\bin\x86\Release\Google.Protobuf.pdb
+D:\Manini_Project\Backend_Apps\SRKSDAQFanuc20190808\SRKSDAQFanuc\bin\x86\Release\Google.Protobuf.xml
+D:\Manini_Project\Backend_Apps\SRKSDAQFanuc20190808\SRKSDAQFanuc\bin\x86\Release\K4os.Compression.LZ4.xml
+D:\Manini_Project\Backend_Apps\SRKSDAQFanuc20190808\SRKSDAQFanuc\bin\x86\Release\K4os.Compression.LZ4.Streams.xml
+D:\Manini_Project\Backend_Apps\SRKSDAQFanuc20190808\SRKSDAQFanuc\bin\x86\Release\K4os.Hash.xxHash.xml
+D:\Manini_Project\Backend_Apps\SRKSDAQFanuc20190808\SRKSDAQFanuc\bin\x86\Release\MySql.Data.xml
+D:\Manini_Project\Backend_Apps\SRKSDAQFanuc20190808\SRKSDAQFanuc\bin\x86\Release\Renci.SshNet.xml
+D:\Manini_Project\Backend_Apps\SRKSDAQFanuc20190808\SRKSDAQFanuc\bin\x86\Release\System.Buffers.xml
+D:\Manini_Project\Backend_Apps\SRKSDAQFanuc20190808\SRKSDAQFanuc\bin\x86\Release\System.Memory.xml
+D:\Manini_Project\Backend_Apps\SRKSDAQFanuc20190808\SRKSDAQFanuc\bin\x86\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\Manini_Project\Backend_Apps\SRKSDAQFanuc20190808\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.csprojAssemblyReference.cache
+D:\Manini_Project\Backend_Apps\SRKSDAQFanuc20190808\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.ProjectInstaller.resources
+D:\Manini_Project\Backend_Apps\SRKSDAQFanuc20190808\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.csproj.GenerateResource.cache
+D:\Manini_Project\Backend_Apps\SRKSDAQFanuc20190808\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.csproj.CoreCompileInputs.cache
+D:\Manini_Project\Backend_Apps\SRKSDAQFanuc20190808\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.exe.manifest
+D:\Manini_Project\Backend_Apps\SRKSDAQFanuc20190808\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.application
+D:\Manini_Project\Backend_Apps\SRKSDAQFanuc20190808\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.csproj.CopyComplete
+D:\Manini_Project\Backend_Apps\SRKSDAQFanuc20190808\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.exe
+D:\Manini_Project\Backend_Apps\SRKSDAQFanuc20190808\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.pdb

@@ -1,0 +1,10 @@
+D:\SRKS Software Solutions\SRKSFanucToolLifeDAQ\SRKSDAQFanucToolLife\SRKSDAQFanuc\bin\x86\Release\SRKSDAQFanucToolLife.exe.config
+D:\SRKS Software Solutions\SRKSFanucToolLifeDAQ\SRKSDAQFanucToolLife\SRKSDAQFanuc\bin\x86\Release\SRKSDAQFanucToolLife.exe
+D:\SRKS Software Solutions\SRKSFanucToolLifeDAQ\SRKSDAQFanucToolLife\SRKSDAQFanuc\bin\x86\Release\SRKSDAQFanucToolLife.pdb
+D:\SRKS Software Solutions\SRKSFanucToolLifeDAQ\SRKSDAQFanucToolLife\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanucToolLife.csprojResolveAssemblyReference.cache
+D:\SRKS Software Solutions\SRKSFanucToolLifeDAQ\SRKSDAQFanucToolLife\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanucToolLife.ProjectInstaller.resources
+D:\SRKS Software Solutions\SRKSFanucToolLifeDAQ\SRKSDAQFanucToolLife\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanucToolLife.Service1.resources
+D:\SRKS Software Solutions\SRKSFanucToolLifeDAQ\SRKSDAQFanucToolLife\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanucToolLife.csproj.GenerateResource.Cache
+D:\SRKS Software Solutions\SRKSFanucToolLifeDAQ\SRKSDAQFanucToolLife\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanucToolLife.csproj.CoreCompileInputs.cache
+D:\SRKS Software Solutions\SRKSFanucToolLifeDAQ\SRKSDAQFanucToolLife\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanucToolLife.exe
+D:\SRKS Software Solutions\SRKSFanucToolLifeDAQ\SRKSDAQFanucToolLife\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanucToolLife.pdb

@@ -1,0 +1,18 @@
+D:\SRKS\Projects\CCSGroups-Bangkok\Development\SQL Build\DAQ\SRKSDAQFanuc\SRKSDAQFanuc\bin\x86\Release\SRKSDAQFanuc.exe.config
+D:\SRKS\Projects\CCSGroups-Bangkok\Development\SQL Build\DAQ\SRKSDAQFanuc\SRKSDAQFanuc\bin\x86\Release\SRKSDAQFanuc.exe
+D:\SRKS\Projects\CCSGroups-Bangkok\Development\SQL Build\DAQ\SRKSDAQFanuc\SRKSDAQFanuc\bin\x86\Release\SRKSDAQFanuc.pdb
+D:\SRKS\Projects\CCSGroups-Bangkok\Development\SQL Build\DAQ\SRKSDAQFanuc\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.csprojResolveAssemblyReference.cache
+D:\SRKS\Projects\CCSGroups-Bangkok\Development\SQL Build\DAQ\SRKSDAQFanuc\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.ProjectInstaller.resources
+D:\SRKS\Projects\CCSGroups-Bangkok\Development\SQL Build\DAQ\SRKSDAQFanuc\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.csproj.GenerateResource.cache
+D:\SRKS\Projects\CCSGroups-Bangkok\Development\SQL Build\DAQ\SRKSDAQFanuc\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.csproj.CoreCompileInputs.cache
+D:\SRKS\Projects\CCSGroups-Bangkok\Development\SQL Build\DAQ\SRKSDAQFanuc\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.exe
+D:\SRKS\Projects\CCSGroups-Bangkok\Development\SQL Build\DAQ\SRKSDAQFanuc\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.pdb
+D:\SRKS Software Solutions\SRKSDAQFanuc\SRKSDAQFanuc\bin\x86\Release\SRKSDAQFanuc.exe.config
+D:\SRKS Software Solutions\SRKSDAQFanuc\SRKSDAQFanuc\bin\x86\Release\SRKSDAQFanuc.exe
+D:\SRKS Software Solutions\SRKSDAQFanuc\SRKSDAQFanuc\bin\x86\Release\SRKSDAQFanuc.pdb
+D:\SRKS Software Solutions\SRKSDAQFanuc\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.csprojResolveAssemblyReference.cache
+D:\SRKS Software Solutions\SRKSDAQFanuc\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.ProjectInstaller.resources
+D:\SRKS Software Solutions\SRKSDAQFanuc\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.csproj.GenerateResource.Cache
+D:\SRKS Software Solutions\SRKSDAQFanuc\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.csproj.CoreCompileInputs.cache
+D:\SRKS Software Solutions\SRKSDAQFanuc\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.exe
+D:\SRKS Software Solutions\SRKSDAQFanuc\SRKSDAQFanuc\obj\x86\Release\SRKSDAQFanuc.pdb

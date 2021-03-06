@@ -1,0 +1,156 @@
+C:\Users\Pavan Kumar V\Desktop\TSAL\Production_Status_UAT\Production_Status_UAT\bin\Debug\Production_Status_UAT.exe.config
+C:\Users\Pavan Kumar V\Desktop\TSAL\Production_Status_UAT\Production_Status_UAT\bin\Debug\Production_Status_UAT.exe
+C:\Users\Pavan Kumar V\Desktop\TSAL\Production_Status_UAT\Production_Status_UAT\bin\Debug\Production_Status_UAT.pdb
+C:\Users\Pavan Kumar V\Desktop\TSAL\Production_Status_UAT\Production_Status_UAT\bin\Debug\EntityFramework.dll
+C:\Users\Pavan Kumar V\Desktop\TSAL\Production_Status_UAT\Production_Status_UAT\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Pavan Kumar V\Desktop\TSAL\Production_Status_UAT\Production_Status_UAT\bin\Debug\EntityFramework.xml
+C:\Users\Pavan Kumar V\Desktop\TSAL\Production_Status_UAT\Production_Status_UAT\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Pavan Kumar V\Desktop\TSAL\Production_Status_UAT\Production_Status_UAT\obj\Debug\Production_Status_UAT.Production_Status_UAT.resources
+C:\Users\Pavan Kumar V\Desktop\TSAL\Production_Status_UAT\Production_Status_UAT\obj\Debug\Production_Status_UAT.Properties.Resources.resources
+C:\Users\Pavan Kumar V\Desktop\TSAL\Production_Status_UAT\Production_Status_UAT\obj\Debug\Production_Status_UAT.csproj.GenerateResource.cache
+C:\Users\Pavan Kumar V\Desktop\TSAL\Production_Status_UAT\Production_Status_UAT\obj\Debug\Production_Status_UAT.csproj.CoreCompileInputs.cache
+C:\Users\Pavan Kumar V\Desktop\TSAL\Production_Status_UAT\Production_Status_UAT\obj\Debug\Production_Status_UAT.csproj.CopyComplete
+C:\Users\Pavan Kumar V\Desktop\TSAL\Production_Status_UAT\Production_Status_UAT\obj\Debug\Production_Status_UAT.exe
+C:\Users\Pavan Kumar V\Desktop\TSAL\Production_Status_UAT\Production_Status_UAT\obj\Debug\Production_Status_UAT.pdb
+C:\Users\Pavan Kumar V\Desktop\TSAL\TSAL_UAT\Production_Status_UAT_20190829\Production_Status_UAT\bin\Debug\Production_Status_UAT.exe.config
+C:\Users\Pavan Kumar V\Desktop\TSAL\TSAL_UAT\Production_Status_UAT_20190829\Production_Status_UAT\bin\Debug\Production_Status_UAT.exe
+C:\Users\Pavan Kumar V\Desktop\TSAL\TSAL_UAT\Production_Status_UAT_20190829\Production_Status_UAT\bin\Debug\Production_Status_UAT.pdb
+C:\Users\Pavan Kumar V\Desktop\TSAL\TSAL_UAT\Production_Status_UAT_20190829\Production_Status_UAT\bin\Debug\EntityFramework.dll
+C:\Users\Pavan Kumar V\Desktop\TSAL\TSAL_UAT\Production_Status_UAT_20190829\Production_Status_UAT\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Pavan Kumar V\Desktop\TSAL\TSAL_UAT\Production_Status_UAT_20190829\Production_Status_UAT\bin\Debug\EntityFramework.xml
+C:\Users\Pavan Kumar V\Desktop\TSAL\TSAL_UAT\Production_Status_UAT_20190829\Production_Status_UAT\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Pavan Kumar V\Desktop\TSAL\TSAL_UAT\Production_Status_UAT_20190829\Production_Status_UAT\obj\Debug\Production_Status_UAT.Production_Status_UAT.resources
+C:\Users\Pavan Kumar V\Desktop\TSAL\TSAL_UAT\Production_Status_UAT_20190829\Production_Status_UAT\obj\Debug\Production_Status_UAT.Properties.Resources.resources
+C:\Users\Pavan Kumar V\Desktop\TSAL\TSAL_UAT\Production_Status_UAT_20190829\Production_Status_UAT\obj\Debug\Production_Status_UAT.csproj.GenerateResource.cache
+C:\Users\Pavan Kumar V\Desktop\TSAL\TSAL_UAT\Production_Status_UAT_20190829\Production_Status_UAT\obj\Debug\Production_Status_UAT.csproj.CoreCompileInputs.cache
+C:\Users\Pavan Kumar V\Desktop\TSAL\TSAL_UAT\Production_Status_UAT_20190829\Production_Status_UAT\obj\Debug\Production_Status_UAT.csproj.CopyComplete
+C:\Users\Pavan Kumar V\Desktop\TSAL\TSAL_UAT\Production_Status_UAT_20190829\Production_Status_UAT\obj\Debug\Production_Status_UAT.exe
+C:\Users\Pavan Kumar V\Desktop\TSAL\TSAL_UAT\Production_Status_UAT_20190829\Production_Status_UAT\obj\Debug\Production_Status_UAT.pdb
+C:\Users\Pavan Kumar V\Desktop\TSAL\TSAL_UAT\Ashok\Asynchronus_Production_Status_UAT_20191105\Production_Status_UAT\bin\Debug\Production_Status_UAT.exe.config
+C:\Users\Pavan Kumar V\Desktop\TSAL\TSAL_UAT\Ashok\Asynchronus_Production_Status_UAT_20191105\Production_Status_UAT\bin\Debug\Production_Status_UAT.exe
+C:\Users\Pavan Kumar V\Desktop\TSAL\TSAL_UAT\Ashok\Asynchronus_Production_Status_UAT_20191105\Production_Status_UAT\bin\Debug\Production_Status_UAT.pdb
+C:\Users\Pavan Kumar V\Desktop\TSAL\TSAL_UAT\Ashok\Asynchronus_Production_Status_UAT_20191105\Production_Status_UAT\bin\Debug\EntityFramework.dll
+C:\Users\Pavan Kumar V\Desktop\TSAL\TSAL_UAT\Ashok\Asynchronus_Production_Status_UAT_20191105\Production_Status_UAT\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Pavan Kumar V\Desktop\TSAL\TSAL_UAT\Ashok\Asynchronus_Production_Status_UAT_20191105\Production_Status_UAT\bin\Debug\EntityFramework.xml
+C:\Users\Pavan Kumar V\Desktop\TSAL\TSAL_UAT\Ashok\Asynchronus_Production_Status_UAT_20191105\Production_Status_UAT\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Pavan Kumar V\Desktop\TSAL\TSAL_UAT\Ashok\Asynchronus_Production_Status_UAT_20191105\Production_Status_UAT\obj\Debug\Production_Status_UAT.Production_Status_UAT.resources
+C:\Users\Pavan Kumar V\Desktop\TSAL\TSAL_UAT\Ashok\Asynchronus_Production_Status_UAT_20191105\Production_Status_UAT\obj\Debug\Production_Status_UAT.Properties.Resources.resources
+C:\Users\Pavan Kumar V\Desktop\TSAL\TSAL_UAT\Ashok\Asynchronus_Production_Status_UAT_20191105\Production_Status_UAT\obj\Debug\Production_Status_UAT.csproj.GenerateResource.cache
+C:\Users\Pavan Kumar V\Desktop\TSAL\TSAL_UAT\Ashok\Asynchronus_Production_Status_UAT_20191105\Production_Status_UAT\obj\Debug\Production_Status_UAT.csproj.CoreCompileInputs.cache
+C:\Users\Pavan Kumar V\Desktop\TSAL\TSAL_UAT\Ashok\Asynchronus_Production_Status_UAT_20191105\Production_Status_UAT\obj\Debug\Production_Status_UAT.csproj.CopyComplete
+C:\Users\Pavan Kumar V\Desktop\TSAL\TSAL_UAT\Ashok\Asynchronus_Production_Status_UAT_20191105\Production_Status_UAT\obj\Debug\Production_Status_UAT.exe
+C:\Users\Pavan Kumar V\Desktop\TSAL\TSAL_UAT\Ashok\Asynchronus_Production_Status_UAT_20191105\Production_Status_UAT\obj\Debug\Production_Status_UAT.pdb
+C:\Users\Pavan Kumar V\Desktop\TSAL\TSAL_UAT\Ashok\TAL\Production_Status_UAT\bin\Debug\Production_Status_UAT.exe.config
+C:\Users\Pavan Kumar V\Desktop\TSAL\TSAL_UAT\Ashok\TAL\Production_Status_UAT\bin\Debug\Production_Status_UAT.exe
+C:\Users\Pavan Kumar V\Desktop\TSAL\TSAL_UAT\Ashok\TAL\Production_Status_UAT\bin\Debug\Production_Status_UAT.pdb
+C:\Users\Pavan Kumar V\Desktop\TSAL\TSAL_UAT\Ashok\TAL\Production_Status_UAT\bin\Debug\EntityFramework.dll
+C:\Users\Pavan Kumar V\Desktop\TSAL\TSAL_UAT\Ashok\TAL\Production_Status_UAT\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Pavan Kumar V\Desktop\TSAL\TSAL_UAT\Ashok\TAL\Production_Status_UAT\bin\Debug\EntityFramework.xml
+C:\Users\Pavan Kumar V\Desktop\TSAL\TSAL_UAT\Ashok\TAL\Production_Status_UAT\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Pavan Kumar V\Desktop\TSAL\TSAL_UAT\Ashok\TAL\Production_Status_UAT\obj\Debug\Production_Status_UAT.csprojAssemblyReference.cache
+C:\Users\Pavan Kumar V\Desktop\TSAL\TSAL_UAT\Ashok\TAL\Production_Status_UAT\obj\Debug\Production_Status_UAT.Production_Status_UAT.resources
+C:\Users\Pavan Kumar V\Desktop\TSAL\TSAL_UAT\Ashok\TAL\Production_Status_UAT\obj\Debug\Production_Status_UAT.Properties.Resources.resources
+C:\Users\Pavan Kumar V\Desktop\TSAL\TSAL_UAT\Ashok\TAL\Production_Status_UAT\obj\Debug\Production_Status_UAT.csproj.GenerateResource.cache
+C:\Users\Pavan Kumar V\Desktop\TSAL\TSAL_UAT\Ashok\TAL\Production_Status_UAT\obj\Debug\Production_Status_UAT.csproj.CoreCompileInputs.cache
+C:\Users\Pavan Kumar V\Desktop\TSAL\TSAL_UAT\Ashok\TAL\Production_Status_UAT\obj\Debug\Production_Status_UAT.csproj.CopyComplete
+C:\Users\Pavan Kumar V\Desktop\TSAL\TSAL_UAT\Ashok\TAL\Production_Status_UAT\obj\Debug\Production_Status_UAT.exe
+C:\Users\Pavan Kumar V\Desktop\TSAL\TSAL_UAT\Ashok\TAL\Production_Status_UAT\obj\Debug\Production_Status_UAT.pdb
+C:\Users\pavan\Downloads\Production_Status_UAT_20191216\Production_Status_UAT\bin\Debug\Production_Status_UAT.exe.config
+C:\Users\pavan\Downloads\Production_Status_UAT_20191216\Production_Status_UAT\bin\Debug\Production_Status_UAT.exe
+C:\Users\pavan\Downloads\Production_Status_UAT_20191216\Production_Status_UAT\bin\Debug\Production_Status_UAT.pdb
+C:\Users\pavan\Downloads\Production_Status_UAT_20191216\Production_Status_UAT\bin\Debug\EntityFramework.dll
+C:\Users\pavan\Downloads\Production_Status_UAT_20191216\Production_Status_UAT\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pavan\Downloads\Production_Status_UAT_20191216\Production_Status_UAT\bin\Debug\EntityFramework.xml
+C:\Users\pavan\Downloads\Production_Status_UAT_20191216\Production_Status_UAT\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pavan\Downloads\Production_Status_UAT_20191216\Production_Status_UAT\obj\Debug\Production_Status_UAT.Production_Status_UAT.resources
+C:\Users\pavan\Downloads\Production_Status_UAT_20191216\Production_Status_UAT\obj\Debug\Production_Status_UAT.Properties.Resources.resources
+C:\Users\pavan\Downloads\Production_Status_UAT_20191216\Production_Status_UAT\obj\Debug\Production_Status_UAT.csproj.GenerateResource.cache
+C:\Users\pavan\Downloads\Production_Status_UAT_20191216\Production_Status_UAT\obj\Debug\Production_Status_UAT.csproj.CoreCompileInputs.cache
+C:\Users\pavan\Downloads\Production_Status_UAT_20191216\Production_Status_UAT\obj\Debug\Production_Status_UAT.csproj.CopyComplete
+C:\Users\pavan\Downloads\Production_Status_UAT_20191216\Production_Status_UAT\obj\Debug\Production_Status_UAT.exe
+C:\Users\pavan\Downloads\Production_Status_UAT_20191216\Production_Status_UAT\obj\Debug\Production_Status_UAT.pdb
+D:\Aswini\Maini\Auma-Production_Status_UAT_20200127 for Maini\Production_Status_UAT\bin\Debug\Production_Status_UAT.exe.config
+D:\Aswini\Maini\Auma-Production_Status_UAT_20200127 for Maini\Production_Status_UAT\bin\Debug\Production_Status_UAT.exe
+D:\Aswini\Maini\Auma-Production_Status_UAT_20200127 for Maini\Production_Status_UAT\bin\Debug\Production_Status_UAT.pdb
+D:\Aswini\Maini\Auma-Production_Status_UAT_20200127 for Maini\Production_Status_UAT\bin\Debug\EntityFramework.dll
+D:\Aswini\Maini\Auma-Production_Status_UAT_20200127 for Maini\Production_Status_UAT\bin\Debug\EntityFramework.SqlServer.dll
+D:\Aswini\Maini\Auma-Production_Status_UAT_20200127 for Maini\Production_Status_UAT\bin\Debug\EntityFramework.xml
+D:\Aswini\Maini\Auma-Production_Status_UAT_20200127 for Maini\Production_Status_UAT\bin\Debug\EntityFramework.SqlServer.xml
+D:\Aswini\Maini\Auma-Production_Status_UAT_20200127 for Maini\Production_Status_UAT\obj\Debug\Production_Status_UAT.Production_Status_UAT.resources
+D:\Aswini\Maini\Auma-Production_Status_UAT_20200127 for Maini\Production_Status_UAT\obj\Debug\Production_Status_UAT.Properties.Resources.resources
+D:\Aswini\Maini\Auma-Production_Status_UAT_20200127 for Maini\Production_Status_UAT\obj\Debug\Production_Status_UAT.csproj.GenerateResource.cache
+D:\Aswini\Maini\Auma-Production_Status_UAT_20200127 for Maini\Production_Status_UAT\obj\Debug\Production_Status_UAT.csproj.CoreCompileInputs.cache
+D:\Aswini\Maini\Auma-Production_Status_UAT_20200127 for Maini\Production_Status_UAT\obj\Debug\Production_Status_UAT.csproj.CopyComplete
+D:\Aswini\Maini\Auma-Production_Status_UAT_20200127 for Maini\Production_Status_UAT\obj\Debug\Production_Status_UAT.exe
+D:\Aswini\Maini\Auma-Production_Status_UAT_20200127 for Maini\Production_Status_UAT\obj\Debug\Production_Status_UAT.pdb
+D:\Ashok\IOT GateWay\PAVAN\MAINI\ProdStatus20200131\Production_Status_UAT\bin\Debug\Production_Status_UAT.exe.config
+D:\Ashok\IOT GateWay\PAVAN\MAINI\ProdStatus20200131\Production_Status_UAT\bin\Debug\Production_Status_UAT.exe
+D:\Ashok\IOT GateWay\PAVAN\MAINI\ProdStatus20200131\Production_Status_UAT\bin\Debug\Production_Status_UAT.pdb
+D:\Ashok\IOT GateWay\PAVAN\MAINI\ProdStatus20200131\Production_Status_UAT\bin\Debug\EntityFramework.dll
+D:\Ashok\IOT GateWay\PAVAN\MAINI\ProdStatus20200131\Production_Status_UAT\bin\Debug\EntityFramework.SqlServer.dll
+D:\Ashok\IOT GateWay\PAVAN\MAINI\ProdStatus20200131\Production_Status_UAT\bin\Debug\EntityFramework.xml
+D:\Ashok\IOT GateWay\PAVAN\MAINI\ProdStatus20200131\Production_Status_UAT\bin\Debug\EntityFramework.SqlServer.xml
+D:\Ashok\IOT GateWay\PAVAN\MAINI\ProdStatus20200131\Production_Status_UAT\obj\Debug\Production_Status_UAT.Production_Status_UAT.resources
+D:\Ashok\IOT GateWay\PAVAN\MAINI\ProdStatus20200131\Production_Status_UAT\obj\Debug\Production_Status_UAT.Properties.Resources.resources
+D:\Ashok\IOT GateWay\PAVAN\MAINI\ProdStatus20200131\Production_Status_UAT\obj\Debug\Production_Status_UAT.csproj.GenerateResource.cache
+D:\Ashok\IOT GateWay\PAVAN\MAINI\ProdStatus20200131\Production_Status_UAT\obj\Debug\Production_Status_UAT.csproj.CoreCompileInputs.cache
+D:\Ashok\IOT GateWay\PAVAN\MAINI\ProdStatus20200131\Production_Status_UAT\obj\Debug\Production_Status_UAT.csproj.CopyComplete
+D:\Ashok\IOT GateWay\PAVAN\MAINI\ProdStatus20200131\Production_Status_UAT\obj\Debug\Production_Status_UAT.exe
+D:\Ashok\IOT GateWay\PAVAN\MAINI\ProdStatus20200131\Production_Status_UAT\obj\Debug\Production_Status_UAT.pdb
+D:\Manini_Project\backup\MainiSQLBuils-main\Backend Apps\ProdStatus20200131\Production_Status_UAT\bin\Debug\Production_Status_UAT.exe.config
+D:\Manini_Project\backup\MainiSQLBuils-main\Backend Apps\ProdStatus20200131\Production_Status_UAT\bin\Debug\Production_Status_UAT.exe
+D:\Manini_Project\backup\MainiSQLBuils-main\Backend Apps\ProdStatus20200131\Production_Status_UAT\bin\Debug\Production_Status_UAT.pdb
+D:\Manini_Project\backup\MainiSQLBuils-main\Backend Apps\ProdStatus20200131\Production_Status_UAT\bin\Debug\EntityFramework.dll
+D:\Manini_Project\backup\MainiSQLBuils-main\Backend Apps\ProdStatus20200131\Production_Status_UAT\bin\Debug\EntityFramework.SqlServer.dll
+D:\Manini_Project\backup\MainiSQLBuils-main\Backend Apps\ProdStatus20200131\Production_Status_UAT\bin\Debug\EntityFramework.xml
+D:\Manini_Project\backup\MainiSQLBuils-main\Backend Apps\ProdStatus20200131\Production_Status_UAT\bin\Debug\EntityFramework.SqlServer.xml
+D:\Manini_Project\backup\MainiSQLBuils-main\Backend Apps\ProdStatus20200131\Production_Status_UAT\obj\Debug\Production_Status_UAT.Production_Status_UAT.resources
+D:\Manini_Project\backup\MainiSQLBuils-main\Backend Apps\ProdStatus20200131\Production_Status_UAT\obj\Debug\Production_Status_UAT.Properties.Resources.resources
+D:\Manini_Project\backup\MainiSQLBuils-main\Backend Apps\ProdStatus20200131\Production_Status_UAT\obj\Debug\Production_Status_UAT.csproj.GenerateResource.cache
+D:\Manini_Project\backup\MainiSQLBuils-main\Backend Apps\ProdStatus20200131\Production_Status_UAT\obj\Debug\Production_Status_UAT.csproj.CoreCompileInputs.cache
+D:\Manini_Project\backup\MainiSQLBuils-main\Backend Apps\ProdStatus20200131\Production_Status_UAT\obj\Debug\Production_Status_UAT.csproj.CopyComplete
+D:\Manini_Project\backup\MainiSQLBuils-main\Backend Apps\ProdStatus20200131\Production_Status_UAT\obj\Debug\Production_Status_UAT.exe
+D:\Manini_Project\backup\MainiSQLBuils-main\Backend Apps\ProdStatus20200131\Production_Status_UAT\obj\Debug\Production_Status_UAT.pdb
+D:\Manini_Project\Backend_Apps\ProdStatus20200131\Production_Status_UAT\bin\Debug\Production_Status_UAT.exe.config
+D:\Manini_Project\Backend_Apps\ProdStatus20200131\Production_Status_UAT\bin\Debug\Production_Status_UAT.exe.manifest
+D:\Manini_Project\Backend_Apps\ProdStatus20200131\Production_Status_UAT\bin\Debug\Production_Status_UAT.application
+D:\Manini_Project\Backend_Apps\ProdStatus20200131\Production_Status_UAT\bin\Debug\Production_Status_UAT.exe
+D:\Manini_Project\Backend_Apps\ProdStatus20200131\Production_Status_UAT\bin\Debug\Production_Status_UAT.pdb
+D:\Manini_Project\Backend_Apps\ProdStatus20200131\Production_Status_UAT\bin\Debug\BouncyCastle.Crypto.dll
+D:\Manini_Project\Backend_Apps\ProdStatus20200131\Production_Status_UAT\bin\Debug\EntityFramework.dll
+D:\Manini_Project\Backend_Apps\ProdStatus20200131\Production_Status_UAT\bin\Debug\EntityFramework.SqlServer.dll
+D:\Manini_Project\Backend_Apps\ProdStatus20200131\Production_Status_UAT\bin\Debug\Google.Protobuf.dll
+D:\Manini_Project\Backend_Apps\ProdStatus20200131\Production_Status_UAT\bin\Debug\K4os.Compression.LZ4.dll
+D:\Manini_Project\Backend_Apps\ProdStatus20200131\Production_Status_UAT\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Manini_Project\Backend_Apps\ProdStatus20200131\Production_Status_UAT\bin\Debug\K4os.Hash.xxHash.dll
+D:\Manini_Project\Backend_Apps\ProdStatus20200131\Production_Status_UAT\bin\Debug\MySql.Data.dll
+D:\Manini_Project\Backend_Apps\ProdStatus20200131\Production_Status_UAT\bin\Debug\MySql.Data.EntityFramework.dll
+D:\Manini_Project\Backend_Apps\ProdStatus20200131\Production_Status_UAT\bin\Debug\Renci.SshNet.dll
+D:\Manini_Project\Backend_Apps\ProdStatus20200131\Production_Status_UAT\bin\Debug\System.Buffers.dll
+D:\Manini_Project\Backend_Apps\ProdStatus20200131\Production_Status_UAT\bin\Debug\System.Memory.dll
+D:\Manini_Project\Backend_Apps\ProdStatus20200131\Production_Status_UAT\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Manini_Project\Backend_Apps\ProdStatus20200131\Production_Status_UAT\bin\Debug\Ubiety.Dns.Core.dll
+D:\Manini_Project\Backend_Apps\ProdStatus20200131\Production_Status_UAT\bin\Debug\Zstandard.Net.dll
+D:\Manini_Project\Backend_Apps\ProdStatus20200131\Production_Status_UAT\bin\Debug\EntityFramework.xml
+D:\Manini_Project\Backend_Apps\ProdStatus20200131\Production_Status_UAT\bin\Debug\EntityFramework.SqlServer.xml
+D:\Manini_Project\Backend_Apps\ProdStatus20200131\Production_Status_UAT\bin\Debug\Google.Protobuf.pdb
+D:\Manini_Project\Backend_Apps\ProdStatus20200131\Production_Status_UAT\bin\Debug\Google.Protobuf.xml
+D:\Manini_Project\Backend_Apps\ProdStatus20200131\Production_Status_UAT\bin\Debug\K4os.Compression.LZ4.xml
+D:\Manini_Project\Backend_Apps\ProdStatus20200131\Production_Status_UAT\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Manini_Project\Backend_Apps\ProdStatus20200131\Production_Status_UAT\bin\Debug\K4os.Hash.xxHash.xml
+D:\Manini_Project\Backend_Apps\ProdStatus20200131\Production_Status_UAT\bin\Debug\MySql.Data.xml
+D:\Manini_Project\Backend_Apps\ProdStatus20200131\Production_Status_UAT\bin\Debug\MySql.Data.EntityFramework.xml
+D:\Manini_Project\Backend_Apps\ProdStatus20200131\Production_Status_UAT\bin\Debug\Renci.SshNet.xml
+D:\Manini_Project\Backend_Apps\ProdStatus20200131\Production_Status_UAT\bin\Debug\System.Buffers.xml
+D:\Manini_Project\Backend_Apps\ProdStatus20200131\Production_Status_UAT\bin\Debug\System.Memory.xml
+D:\Manini_Project\Backend_Apps\ProdStatus20200131\Production_Status_UAT\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Manini_Project\Backend_Apps\ProdStatus20200131\Production_Status_UAT\obj\Debug\Production_Status_UAT.csprojAssemblyReference.cache
+D:\Manini_Project\Backend_Apps\ProdStatus20200131\Production_Status_UAT\obj\Debug\Production_Status_UAT.Production_Status_UAT.resources
+D:\Manini_Project\Backend_Apps\ProdStatus20200131\Production_Status_UAT\obj\Debug\Production_Status_UAT.Properties.Resources.resources
+D:\Manini_Project\Backend_Apps\ProdStatus20200131\Production_Status_UAT\obj\Debug\Production_Status_UAT.csproj.GenerateResource.cache
+D:\Manini_Project\Backend_Apps\ProdStatus20200131\Production_Status_UAT\obj\Debug\Production_Status_UAT.csproj.CoreCompileInputs.cache
+D:\Manini_Project\Backend_Apps\ProdStatus20200131\Production_Status_UAT\obj\Debug\Production_Status_UAT.exe.manifest
+D:\Manini_Project\Backend_Apps\ProdStatus20200131\Production_Status_UAT\obj\Debug\Production_Status_UAT.application
+D:\Manini_Project\Backend_Apps\ProdStatus20200131\Production_Status_UAT\obj\Debug\Production_Status_UAT.csproj.CopyComplete
+D:\Manini_Project\Backend_Apps\ProdStatus20200131\Production_Status_UAT\obj\Debug\Production_Status_UAT.exe
+D:\Manini_Project\Backend_Apps\ProdStatus20200131\Production_Status_UAT\obj\Debug\Production_Status_UAT.pdb

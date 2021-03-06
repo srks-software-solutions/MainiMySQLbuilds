@@ -1,0 +1,45 @@
+12/28/2020 4:22:34 PM:  System.InvalidOperationException: No connection string named 'unitworksccsEntities1' could be found in the application config file.
+   at System.Data.Entity.Internal.LazyInternalConnection.get_ConnectionHasModel()
+   at System.Data.Entity.Internal.LazyInternalContext.InitializeContext()
+   at System.Data.Entity.Internal.InternalContext.Initialize()
+   at System.Data.Entity.Internal.InternalContext.GetEntitySetAndBaseTypeForType(Type entityType)
+   at System.Data.Entity.Internal.Linq.InternalSet`1.Initialize()
+   at System.Data.Entity.Internal.Linq.InternalSet`1.get_InternalContext()
+   at System.Data.Entity.Infrastructure.DbQuery`1.System.Linq.IQueryable.get_Provider()
+   at System.Linq.Queryable.Where[TSource](IQueryable`1 source, Expression`1 predicate)
+   at MimicsUpdation.UpdateMimics.getmachines() in D:\Manini_Project\Backend_Apps\latestmainimimicsForMaini20200127\MimicsUpdation\Form1.cs:line 62
+   at MimicsUpdation.UpdateMimics..ctor() in D:\Manini_Project\Backend_Apps\latestmainimimicsForMaini20200127\MimicsUpdation\Form1.cs:line 21
+12/28/2020 4:22:38 PM:  System.InvalidOperationException: No connection string named 'unitworksccsEntities1' could be found in the application config file.
+   at System.Data.Entity.Internal.LazyInternalConnection.get_ConnectionHasModel()
+   at System.Data.Entity.Internal.LazyInternalContext.InitializeContext()
+   at System.Data.Entity.Internal.InternalContext.Initialize()
+   at System.Data.Entity.Internal.InternalContext.GetEntitySetAndBaseTypeForType(Type entityType)
+   at System.Data.Entity.Internal.Linq.InternalSet`1.Initialize()
+   at System.Data.Entity.Internal.Linq.InternalSet`1.get_InternalContext()
+   at System.Data.Entity.Infrastructure.DbQuery`1.System.Linq.IQueryable.get_Provider()
+   at System.Linq.Queryable.Where[TSource](IQueryable`1 source, Expression`1 predicate)
+   at MimicsUpdation.UpdateMimics.getcorrecteddate() in D:\Manini_Project\Backend_Apps\latestmainimimicsForMaini20200127\MimicsUpdation\Form1.cs:line 235
+   at MimicsUpdation.UpdateMimics.GetPartsandCutting() in D:\Manini_Project\Backend_Apps\latestmainimimicsForMaini20200127\MimicsUpdation\Form1.cs:line 259
+   at MimicsUpdation.UpdateMimics..ctor() in D:\Manini_Project\Backend_Apps\latestmainimimicsForMaini20200127\MimicsUpdation\Form1.cs:line 35
+12/28/2020 4:28:00 PM:  System.InvalidOperationException: No connection string named 'unitworksccsEntities1' could be found in the application config file.
+   at System.Data.Entity.Internal.LazyInternalConnection.get_ConnectionHasModel()
+   at System.Data.Entity.Internal.LazyInternalContext.InitializeContext()
+   at System.Data.Entity.Internal.InternalContext.Initialize()
+   at System.Data.Entity.Internal.InternalContext.GetEntitySetAndBaseTypeForType(Type entityType)
+   at System.Data.Entity.Internal.Linq.InternalSet`1.Initialize()
+   at System.Data.Entity.Internal.Linq.InternalSet`1.get_InternalContext()
+   at System.Data.Entity.Infrastructure.DbQuery`1.System.Linq.IQueryable.get_Provider()
+   at System.Linq.Queryable.Where[TSource](IQueryable`1 source, Expression`1 predicate)
+   at MimicsUpdation.UpdateMimics.getmachines() in D:\Manini_Project\Backend_Apps\latestmainimimicsForMaini20200127\MimicsUpdation\Form1.cs:line 62
+   at MimicsUpdation.UpdateMimics..ctor() in D:\Manini_Project\Backend_Apps\latestmainimimicsForMaini20200127\MimicsUpdation\Form1.cs:line 21
+12/28/2020 4:28:03 PM:  System.InvalidOperationException: No connection string named 'unitworksccsEntities1' could be found in the application config file.
+   at System.Data.Entity.Internal.LazyInternalConnection.get_ConnectionHasModel()
+   at System.Data.Entity.Internal.LazyInternalContext.InitializeContext()
+   at System.Data.Entity.Internal.InternalContext.Initialize()
+   at System.Data.Entity.Internal.InternalContext.GetEntitySetAndBaseTypeForType(Type entityType)
+   at System.Data.Entity.Internal.Linq.InternalSet`1.Initialize()
+   at System.Data.Entity.Internal.Linq.InternalSet`1.get_InternalContext()
+   at System.Data.Entity.Infrastructure.DbQuery`1.System.Linq.IQueryable.get_Provider()
+   at System.Linq.Queryable.Where[TSource](IQueryable`1 source, Expression`1 predicate)
+   at MimicsUpdation.UpdateMimics.GetPartsandCutting() in D:\Manini_Project\Backend_Apps\latestmainimimicsForMaini20200127\MimicsUpdation\Form1.cs:line 264
+   at MimicsUpdation.UpdateMimics..ctor() in D:\Manini_Project\Backend_Apps\latestmainimimicsForMaini20200127\MimicsUpdation\Form1.cs:line 35

@@ -1,0 +1,12 @@
+G:\MAINI DAQ\SRKSDAQFanuc20190808\SRKSDAQFanuc\bin\x86\Debug\SRKSDAQFanuc.exe.config
+G:\MAINI DAQ\SRKSDAQFanuc20190808\SRKSDAQFanuc\bin\x86\Debug\SRKSDAQFanuc.exe
+G:\MAINI DAQ\SRKSDAQFanuc20190808\SRKSDAQFanuc\bin\x86\Debug\SRKSDAQFanuc.pdb
+G:\MAINI DAQ\SRKSDAQFanuc20190808\SRKSDAQFanuc\bin\x86\Debug\EntityFramework.dll
+G:\MAINI DAQ\SRKSDAQFanuc20190808\SRKSDAQFanuc\bin\x86\Debug\EntityFramework.SqlServer.dll
+G:\MAINI DAQ\SRKSDAQFanuc20190808\SRKSDAQFanuc\bin\x86\Debug\Google.Protobuf.dll
+G:\MAINI DAQ\SRKSDAQFanuc20190808\SRKSDAQFanuc\obj\x86\Debug\SRKSDAQFanuc.ProjectInstaller.resources
+G:\MAINI DAQ\SRKSDAQFanuc20190808\SRKSDAQFanuc\obj\x86\Debug\SRKSDAQFanuc.csproj.GenerateResource.cache
+G:\MAINI DAQ\SRKSDAQFanuc20190808\SRKSDAQFanuc\obj\x86\Debug\SRKSDAQFanuc.csproj.CoreCompileInputs.cache
+G:\MAINI DAQ\SRKSDAQFanuc20190808\SRKSDAQFanuc\obj\x86\Debug\SRKSDAQFanuc.csproj.CopyComplete
+G:\MAINI DAQ\SRKSDAQFanuc20190808\SRKSDAQFanuc\obj\x86\Debug\SRKSDAQFanuc.exe
+G:\MAINI DAQ\SRKSDAQFanuc20190808\SRKSDAQFanuc\obj\x86\Debug\SRKSDAQFanuc.pdb

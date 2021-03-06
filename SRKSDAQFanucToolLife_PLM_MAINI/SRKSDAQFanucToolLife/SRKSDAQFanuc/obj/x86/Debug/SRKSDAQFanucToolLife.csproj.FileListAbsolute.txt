@@ -1,0 +1,62 @@
+D:\SRKS Software Solutions\SRKSFanucToolLifeDAQ\SRKSDAQFanucToolLife\SRKSDAQFanuc\bin\x86\Debug\SRKSDAQFanucToolLife.exe.config
+D:\SRKS Software Solutions\SRKSFanucToolLifeDAQ\SRKSDAQFanucToolLife\SRKSDAQFanuc\bin\x86\Debug\SRKSDAQFanucToolLife.exe
+D:\SRKS Software Solutions\SRKSFanucToolLifeDAQ\SRKSDAQFanucToolLife\SRKSDAQFanuc\bin\x86\Debug\SRKSDAQFanucToolLife.pdb
+D:\SRKS Software Solutions\SRKSFanucToolLifeDAQ\SRKSDAQFanucToolLife\SRKSDAQFanuc\obj\x86\Debug\SRKSDAQFanucToolLife.csprojResolveAssemblyReference.cache
+D:\SRKS Software Solutions\SRKSFanucToolLifeDAQ\SRKSDAQFanucToolLife\SRKSDAQFanuc\obj\x86\Debug\SRKSDAQFanucToolLife.ProjectInstaller.resources
+D:\SRKS Software Solutions\SRKSFanucToolLifeDAQ\SRKSDAQFanucToolLife\SRKSDAQFanuc\obj\x86\Debug\SRKSDAQFanucToolLife.Service1.resources
+D:\SRKS Software Solutions\SRKSFanucToolLifeDAQ\SRKSDAQFanucToolLife\SRKSDAQFanuc\obj\x86\Debug\SRKSDAQFanucToolLife.csproj.GenerateResource.Cache
+D:\SRKS Software Solutions\SRKSFanucToolLifeDAQ\SRKSDAQFanucToolLife\SRKSDAQFanuc\obj\x86\Debug\SRKSDAQFanucToolLife.csproj.CoreCompileInputs.cache
+D:\SRKS Software Solutions\SRKSFanucToolLifeDAQ\SRKSDAQFanucToolLife\SRKSDAQFanuc\obj\x86\Debug\SRKSDAQFanucToolLife.exe
+D:\SRKS Software Solutions\SRKSFanucToolLifeDAQ\SRKSDAQFanucToolLife\SRKSDAQFanuc\obj\x86\Debug\SRKSDAQFanucToolLife.pdb
+D:\SRKS\Projects\2018\TVS\i-facility\DAQ\SRKSFanucToolLifeDAQ\SRKSDAQFanucToolLife\SRKSDAQFanuc\bin\x86\Debug\SRKSDAQFanucToolLife.exe.config
+D:\SRKS\Projects\2018\TVS\i-facility\DAQ\SRKSFanucToolLifeDAQ\SRKSDAQFanucToolLife\SRKSDAQFanuc\bin\x86\Debug\SRKSDAQFanucToolLife.exe
+D:\SRKS\Projects\2018\TVS\i-facility\DAQ\SRKSFanucToolLifeDAQ\SRKSDAQFanucToolLife\SRKSDAQFanuc\bin\x86\Debug\SRKSDAQFanucToolLife.pdb
+D:\SRKS\Projects\2018\TVS\i-facility\DAQ\SRKSFanucToolLifeDAQ\SRKSDAQFanucToolLife\SRKSDAQFanuc\bin\x86\Debug\Google.Protobuf.dll
+D:\SRKS\Projects\2018\TVS\i-facility\DAQ\SRKSFanucToolLifeDAQ\SRKSDAQFanucToolLife\SRKSDAQFanuc\bin\x86\Debug\MySql.Data.dll
+D:\SRKS\Projects\2018\TVS\i-facility\DAQ\SRKSFanucToolLifeDAQ\SRKSDAQFanucToolLife\SRKSDAQFanuc\bin\x86\Debug\Google.Protobuf.xml
+D:\SRKS\Projects\2018\TVS\i-facility\DAQ\SRKSFanucToolLifeDAQ\SRKSDAQFanucToolLife\SRKSDAQFanuc\bin\x86\Debug\MySql.Data.xml
+D:\SRKS\Projects\2018\TVS\i-facility\DAQ\SRKSFanucToolLifeDAQ\SRKSDAQFanucToolLife\SRKSDAQFanuc\obj\x86\Debug\SRKSDAQFanucToolLife.ProjectInstaller.resources
+D:\SRKS\Projects\2018\TVS\i-facility\DAQ\SRKSFanucToolLifeDAQ\SRKSDAQFanucToolLife\SRKSDAQFanuc\obj\x86\Debug\SRKSDAQFanucToolLife.Service1.resources
+D:\SRKS\Projects\2018\TVS\i-facility\DAQ\SRKSFanucToolLifeDAQ\SRKSDAQFanucToolLife\SRKSDAQFanuc\obj\x86\Debug\SRKSDAQFanucToolLife.csproj.GenerateResource.cache
+D:\SRKS\Projects\2018\TVS\i-facility\DAQ\SRKSFanucToolLifeDAQ\SRKSDAQFanucToolLife\SRKSDAQFanuc\obj\x86\Debug\SRKSDAQFanucToolLife.csproj.CoreCompileInputs.cache
+D:\SRKS\Projects\2018\TVS\i-facility\DAQ\SRKSFanucToolLifeDAQ\SRKSDAQFanucToolLife\SRKSDAQFanuc\obj\x86\Debug\SRKSDAQFanucToolLife.csproj.CopyComplete
+D:\SRKS\Projects\2018\TVS\i-facility\DAQ\SRKSFanucToolLifeDAQ\SRKSDAQFanucToolLife\SRKSDAQFanuc\obj\x86\Debug\SRKSDAQFanucToolLife.exe
+D:\SRKS\Projects\2018\TVS\i-facility\DAQ\SRKSFanucToolLifeDAQ\SRKSDAQFanucToolLife\SRKSDAQFanuc\obj\x86\Debug\SRKSDAQFanucToolLife.pdb
+D:\Ashok\TVS\DAQ\SRKSFanucToolLifeDAQ\SRKSFanucToolLifeDAQ\SRKSDAQFanucToolLife\SRKSDAQFanuc\bin\x86\Debug\SRKSDAQFanucToolLife.exe.config
+D:\Ashok\TVS\DAQ\SRKSFanucToolLifeDAQ\SRKSFanucToolLifeDAQ\SRKSDAQFanucToolLife\SRKSDAQFanuc\bin\x86\Debug\SRKSDAQFanucToolLife.exe
+D:\Ashok\TVS\DAQ\SRKSFanucToolLifeDAQ\SRKSFanucToolLifeDAQ\SRKSDAQFanucToolLife\SRKSDAQFanuc\bin\x86\Debug\SRKSDAQFanucToolLife.pdb
+D:\Ashok\TVS\DAQ\SRKSFanucToolLifeDAQ\SRKSFanucToolLifeDAQ\SRKSDAQFanucToolLife\SRKSDAQFanuc\bin\x86\Debug\EPPlus.dll
+D:\Ashok\TVS\DAQ\SRKSFanucToolLifeDAQ\SRKSFanucToolLifeDAQ\SRKSDAQFanucToolLife\SRKSDAQFanuc\bin\x86\Debug\Google.Protobuf.dll
+D:\Ashok\TVS\DAQ\SRKSFanucToolLifeDAQ\SRKSFanucToolLifeDAQ\SRKSDAQFanucToolLife\SRKSDAQFanuc\bin\x86\Debug\MySql.Data.dll
+D:\Ashok\TVS\DAQ\SRKSFanucToolLifeDAQ\SRKSFanucToolLifeDAQ\SRKSDAQFanucToolLife\SRKSDAQFanuc\bin\x86\Debug\Z.BulkOperations.dll
+D:\Ashok\TVS\DAQ\SRKSFanucToolLifeDAQ\SRKSFanucToolLifeDAQ\SRKSDAQFanucToolLife\SRKSDAQFanuc\bin\x86\Debug\EPPlus.xml
+D:\Ashok\TVS\DAQ\SRKSFanucToolLifeDAQ\SRKSFanucToolLifeDAQ\SRKSDAQFanucToolLife\SRKSDAQFanuc\bin\x86\Debug\Google.Protobuf.xml
+D:\Ashok\TVS\DAQ\SRKSFanucToolLifeDAQ\SRKSFanucToolLifeDAQ\SRKSDAQFanucToolLife\SRKSDAQFanuc\bin\x86\Debug\MySql.Data.xml
+D:\Ashok\TVS\DAQ\SRKSFanucToolLifeDAQ\SRKSFanucToolLifeDAQ\SRKSDAQFanucToolLife\SRKSDAQFanuc\bin\x86\Debug\Z.BulkOperations.xml
+D:\Ashok\TVS\DAQ\SRKSFanucToolLifeDAQ\SRKSFanucToolLifeDAQ\SRKSDAQFanucToolLife\SRKSDAQFanuc\obj\x86\Debug\SRKSDAQFanucToolLife.ProjectInstaller.resources
+D:\Ashok\TVS\DAQ\SRKSFanucToolLifeDAQ\SRKSFanucToolLifeDAQ\SRKSDAQFanucToolLife\SRKSDAQFanuc\obj\x86\Debug\SRKSDAQFanucToolLife.Service1.resources
+D:\Ashok\TVS\DAQ\SRKSFanucToolLifeDAQ\SRKSFanucToolLifeDAQ\SRKSDAQFanucToolLife\SRKSDAQFanuc\obj\x86\Debug\SRKSDAQFanucToolLife.csproj.GenerateResource.cache
+D:\Ashok\TVS\DAQ\SRKSFanucToolLifeDAQ\SRKSFanucToolLifeDAQ\SRKSDAQFanucToolLife\SRKSDAQFanuc\obj\x86\Debug\SRKSDAQFanucToolLife.csproj.CoreCompileInputs.cache
+D:\Ashok\TVS\DAQ\SRKSFanucToolLifeDAQ\SRKSFanucToolLifeDAQ\SRKSDAQFanucToolLife\SRKSDAQFanuc\obj\x86\Debug\SRKSDAQFanucToolLife.csproj.CopyComplete
+D:\Ashok\TVS\DAQ\SRKSFanucToolLifeDAQ\SRKSFanucToolLifeDAQ\SRKSDAQFanucToolLife\SRKSDAQFanuc\obj\x86\Debug\SRKSDAQFanucToolLife.exe
+D:\Ashok\TVS\DAQ\SRKSFanucToolLifeDAQ\SRKSFanucToolLifeDAQ\SRKSDAQFanucToolLife\SRKSDAQFanuc\obj\x86\Debug\SRKSDAQFanucToolLife.pdb
+D:\Ashok\RANE\SRKSDAQFanucToolLife\SRKSDAQFanuc\bin\x86\Debug\SRKSDAQFanucToolLife.exe.config
+D:\Ashok\RANE\SRKSDAQFanucToolLife\SRKSDAQFanuc\bin\x86\Debug\SRKSDAQFanucToolLife.exe
+D:\Ashok\RANE\SRKSDAQFanucToolLife\SRKSDAQFanuc\bin\x86\Debug\SRKSDAQFanucToolLife.pdb
+D:\Ashok\RANE\SRKSDAQFanucToolLife\SRKSDAQFanuc\bin\x86\Debug\Dapper.dll
+D:\Ashok\RANE\SRKSDAQFanucToolLife\SRKSDAQFanuc\bin\x86\Debug\EPPlus.dll
+D:\Ashok\RANE\SRKSDAQFanucToolLife\SRKSDAQFanuc\bin\x86\Debug\Google.Protobuf.dll
+D:\Ashok\RANE\SRKSDAQFanucToolLife\SRKSDAQFanuc\bin\x86\Debug\MySql.Data.dll
+D:\Ashok\RANE\SRKSDAQFanucToolLife\SRKSDAQFanuc\bin\x86\Debug\Z.BulkOperations.dll
+D:\Ashok\RANE\SRKSDAQFanucToolLife\SRKSDAQFanuc\bin\x86\Debug\Dapper.xml
+D:\Ashok\RANE\SRKSDAQFanucToolLife\SRKSDAQFanuc\bin\x86\Debug\EPPlus.xml
+D:\Ashok\RANE\SRKSDAQFanucToolLife\SRKSDAQFanuc\bin\x86\Debug\Google.Protobuf.xml
+D:\Ashok\RANE\SRKSDAQFanucToolLife\SRKSDAQFanuc\bin\x86\Debug\MySql.Data.xml
+D:\Ashok\RANE\SRKSDAQFanucToolLife\SRKSDAQFanuc\bin\x86\Debug\Z.BulkOperations.xml
+D:\Ashok\RANE\SRKSDAQFanucToolLife\SRKSDAQFanuc\obj\x86\Debug\SRKSDAQFanucToolLife.ProjectInstaller.resources
+D:\Ashok\RANE\SRKSDAQFanucToolLife\SRKSDAQFanuc\obj\x86\Debug\SRKSDAQFanucToolLife.Service1.resources
+D:\Ashok\RANE\SRKSDAQFanucToolLife\SRKSDAQFanuc\obj\x86\Debug\SRKSDAQFanucToolLife.csproj.GenerateResource.cache
+D:\Ashok\RANE\SRKSDAQFanucToolLife\SRKSDAQFanuc\obj\x86\Debug\SRKSDAQFanucToolLife.csproj.CoreCompileInputs.cache
+D:\Ashok\RANE\SRKSDAQFanucToolLife\SRKSDAQFanuc\obj\x86\Debug\SRKSDAQFanucToolLife.csproj.CopyComplete
+D:\Ashok\RANE\SRKSDAQFanucToolLife\SRKSDAQFanuc\obj\x86\Debug\SRKSDAQFanucToolLife.exe
+D:\Ashok\RANE\SRKSDAQFanucToolLife\SRKSDAQFanuc\obj\x86\Debug\SRKSDAQFanucToolLife.pdb

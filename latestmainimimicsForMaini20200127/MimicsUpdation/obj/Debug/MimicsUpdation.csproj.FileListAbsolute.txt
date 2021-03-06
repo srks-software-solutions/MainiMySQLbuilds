@@ -1,0 +1,239 @@
+C:\Users\user\source\repos\MimicsUpdation\MimicsUpdation\bin\Debug\MimicsUpdation.exe.config
+C:\Users\user\source\repos\MimicsUpdation\MimicsUpdation\bin\Debug\MimicsUpdation.exe
+C:\Users\user\source\repos\MimicsUpdation\MimicsUpdation\bin\Debug\MimicsUpdation.pdb
+C:\Users\user\source\repos\MimicsUpdation\MimicsUpdation\bin\Debug\Google.Protobuf.dll
+C:\Users\user\source\repos\MimicsUpdation\MimicsUpdation\bin\Debug\MySql.Data.dll
+C:\Users\user\source\repos\MimicsUpdation\MimicsUpdation\bin\Debug\Google.Protobuf.xml
+C:\Users\user\source\repos\MimicsUpdation\MimicsUpdation\bin\Debug\MySql.Data.xml
+C:\Users\user\source\repos\MimicsUpdation\MimicsUpdation\obj\Debug\MimicsUpdation.csprojAssemblyReference.cache
+C:\Users\user\source\repos\MimicsUpdation\MimicsUpdation\obj\Debug\MimicsUpdation.Properties.Resources.resources
+C:\Users\user\source\repos\MimicsUpdation\MimicsUpdation\obj\Debug\MimicsUpdation.csproj.GenerateResource.cache
+C:\Users\user\source\repos\MimicsUpdation\MimicsUpdation\obj\Debug\MimicsUpdation.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MimicsUpdation\MimicsUpdation\obj\Debug\MimicsUpdation.csproj.CopyComplete
+C:\Users\user\source\repos\MimicsUpdation\MimicsUpdation\obj\Debug\MimicsUpdation.exe
+C:\Users\user\source\repos\MimicsUpdation\MimicsUpdation\obj\Debug\MimicsUpdation.pdb
+C:\Users\Pavan Kumar V\Desktop\MimicsUpdation\MimicsUpdation\MimicsUpdation\bin\Debug\MimicsUpdation.exe.config
+C:\Users\Pavan Kumar V\Desktop\MimicsUpdation\MimicsUpdation\MimicsUpdation\bin\Debug\MimicsUpdation.exe
+C:\Users\Pavan Kumar V\Desktop\MimicsUpdation\MimicsUpdation\MimicsUpdation\bin\Debug\MimicsUpdation.pdb
+C:\Users\Pavan Kumar V\Desktop\MimicsUpdation\MimicsUpdation\MimicsUpdation\bin\Debug\EntityFramework.dll
+C:\Users\Pavan Kumar V\Desktop\MimicsUpdation\MimicsUpdation\MimicsUpdation\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Pavan Kumar V\Desktop\MimicsUpdation\MimicsUpdation\MimicsUpdation\bin\Debug\Google.Protobuf.dll
+C:\Users\Pavan Kumar V\Desktop\MimicsUpdation\MimicsUpdation\MimicsUpdation\bin\Debug\MySql.Data.dll
+C:\Users\Pavan Kumar V\Desktop\MimicsUpdation\MimicsUpdation\MimicsUpdation\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\Pavan Kumar V\Desktop\MimicsUpdation\MimicsUpdation\MimicsUpdation\bin\Debug\EntityFramework.xml
+C:\Users\Pavan Kumar V\Desktop\MimicsUpdation\MimicsUpdation\MimicsUpdation\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Pavan Kumar V\Desktop\MimicsUpdation\MimicsUpdation\MimicsUpdation\bin\Debug\Google.Protobuf.xml
+C:\Users\Pavan Kumar V\Desktop\MimicsUpdation\MimicsUpdation\MimicsUpdation\bin\Debug\MySql.Data.xml
+C:\Users\Pavan Kumar V\Desktop\MimicsUpdation\MimicsUpdation\MimicsUpdation\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\Pavan Kumar V\Desktop\MimicsUpdation\MimicsUpdation\MimicsUpdation\obj\Debug\MimicsUpdation.UpdateMimics.resources
+C:\Users\Pavan Kumar V\Desktop\MimicsUpdation\MimicsUpdation\MimicsUpdation\obj\Debug\MimicsUpdation.Properties.Resources.resources
+C:\Users\Pavan Kumar V\Desktop\MimicsUpdation\MimicsUpdation\MimicsUpdation\obj\Debug\MimicsUpdation.csproj.GenerateResource.cache
+C:\Users\Pavan Kumar V\Desktop\MimicsUpdation\MimicsUpdation\MimicsUpdation\obj\Debug\MimicsUpdation.csproj.CoreCompileInputs.cache
+C:\Users\Pavan Kumar V\Desktop\MimicsUpdation\MimicsUpdation\MimicsUpdation\obj\Debug\MimicsUpdation.csproj.CopyComplete
+C:\Users\Pavan Kumar V\Desktop\MimicsUpdation\MimicsUpdation\MimicsUpdation\obj\Debug\MimicsUpdation.exe
+C:\Users\Pavan Kumar V\Desktop\MimicsUpdation\MimicsUpdation\MimicsUpdation\obj\Debug\MimicsUpdation.pdb
+C:\Users\Pavan Kumar V\Desktop\MimicsUpdation\TATA\MimicsUpdation\MimicsUpdation\bin\Debug\MimicsUpdation.exe.config
+C:\Users\Pavan Kumar V\Desktop\MimicsUpdation\TATA\MimicsUpdation\MimicsUpdation\bin\Debug\MimicsUpdation.exe
+C:\Users\Pavan Kumar V\Desktop\MimicsUpdation\TATA\MimicsUpdation\MimicsUpdation\bin\Debug\MimicsUpdation.pdb
+C:\Users\Pavan Kumar V\Desktop\MimicsUpdation\TATA\MimicsUpdation\MimicsUpdation\bin\Debug\EntityFramework.dll
+C:\Users\Pavan Kumar V\Desktop\MimicsUpdation\TATA\MimicsUpdation\MimicsUpdation\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Pavan Kumar V\Desktop\MimicsUpdation\TATA\MimicsUpdation\MimicsUpdation\bin\Debug\Google.Protobuf.dll
+C:\Users\Pavan Kumar V\Desktop\MimicsUpdation\TATA\MimicsUpdation\MimicsUpdation\bin\Debug\MySql.Data.dll
+C:\Users\Pavan Kumar V\Desktop\MimicsUpdation\TATA\MimicsUpdation\MimicsUpdation\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Pavan Kumar V\Desktop\MimicsUpdation\TATA\MimicsUpdation\MimicsUpdation\bin\Debug\EntityFramework.xml
+C:\Users\Pavan Kumar V\Desktop\MimicsUpdation\TATA\MimicsUpdation\MimicsUpdation\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Pavan Kumar V\Desktop\MimicsUpdation\TATA\MimicsUpdation\MimicsUpdation\bin\Debug\Google.Protobuf.xml
+C:\Users\Pavan Kumar V\Desktop\MimicsUpdation\TATA\MimicsUpdation\MimicsUpdation\obj\Debug\MimicsUpdation.UpdateMimics.resources
+C:\Users\Pavan Kumar V\Desktop\MimicsUpdation\TATA\MimicsUpdation\MimicsUpdation\obj\Debug\MimicsUpdation.Properties.Resources.resources
+C:\Users\Pavan Kumar V\Desktop\MimicsUpdation\TATA\MimicsUpdation\MimicsUpdation\obj\Debug\MimicsUpdation.csproj.GenerateResource.cache
+C:\Users\Pavan Kumar V\Desktop\MimicsUpdation\TATA\MimicsUpdation\MimicsUpdation\obj\Debug\MimicsUpdation.csproj.CoreCompileInputs.cache
+C:\Users\Pavan Kumar V\Desktop\MimicsUpdation\TATA\MimicsUpdation\MimicsUpdation\obj\Debug\MimicsUpdation.csproj.CopyComplete
+C:\Users\Pavan Kumar V\Desktop\MimicsUpdation\TATA\MimicsUpdation\MimicsUpdation\obj\Debug\MimicsUpdation.exe
+C:\Users\Pavan Kumar V\Desktop\MimicsUpdation\TATA\MimicsUpdation\MimicsUpdation\obj\Debug\MimicsUpdation.pdb
+C:\Users\User\Desktop\tatanew\MimicsUpdation\MimicsUpdation\obj\Debug\MimicsUpdation.csprojAssemblyReference.cache
+C:\Users\User\Desktop\tatanew\MimicsUpdation\MimicsUpdation\obj\Debug\MimicsUpdation.UpdateMimics.resources
+C:\Users\User\Desktop\tatanew\MimicsUpdation\MimicsUpdation\obj\Debug\MimicsUpdation.Properties.Resources.resources
+C:\Users\User\Desktop\tatanew\MimicsUpdation\MimicsUpdation\obj\Debug\MimicsUpdation.csproj.GenerateResource.cache
+C:\Users\User\Desktop\tatanew\MimicsUpdation\MimicsUpdation\obj\Debug\MimicsUpdation.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\tatanew\MimicsUpdation\MimicsUpdation\obj\Debug\MimicsUpdation.exe
+C:\Users\User\Desktop\tatanew\MimicsUpdation\MimicsUpdation\obj\Debug\MimicsUpdation.pdb
+C:\Users\User\Desktop\tatanew\MimicsUpdation\MimicsUpdation\bin\Debug\MimicsUpdation.exe.config
+C:\Users\User\Desktop\tatanew\MimicsUpdation\MimicsUpdation\bin\Debug\MimicsUpdation.exe
+C:\Users\User\Desktop\tatanew\MimicsUpdation\MimicsUpdation\bin\Debug\MimicsUpdation.pdb
+C:\Users\User\Desktop\tatanew\MimicsUpdation\MimicsUpdation\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\tatanew\MimicsUpdation\MimicsUpdation\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\tatanew\MimicsUpdation\MimicsUpdation\bin\Debug\Google.Protobuf.dll
+C:\Users\User\Desktop\tatanew\MimicsUpdation\MimicsUpdation\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\tatanew\MimicsUpdation\MimicsUpdation\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\tatanew\MimicsUpdation\MimicsUpdation\bin\Debug\Google.Protobuf.xml
+C:\Users\User\Desktop\tatanew\MimicsUpdation\MimicsUpdation\obj\Debug\MimicsUpdation.csproj.CopyComplete
+C:\Users\SRKSDEV007\Desktop\Monika\MimicsUpdation7-05-2019\MimicsUpdation7-05-2019\MimicsUpdation\bin\Debug\MimicsUpdation.exe.config
+C:\Users\SRKSDEV007\Desktop\Monika\MimicsUpdation7-05-2019\MimicsUpdation7-05-2019\MimicsUpdation\bin\Debug\MimicsUpdation.exe
+C:\Users\SRKSDEV007\Desktop\Monika\MimicsUpdation7-05-2019\MimicsUpdation7-05-2019\MimicsUpdation\bin\Debug\MimicsUpdation.pdb
+C:\Users\SRKSDEV007\Desktop\Monika\MimicsUpdation7-05-2019\MimicsUpdation7-05-2019\MimicsUpdation\bin\Debug\EntityFramework.dll
+C:\Users\SRKSDEV007\Desktop\Monika\MimicsUpdation7-05-2019\MimicsUpdation7-05-2019\MimicsUpdation\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SRKSDEV007\Desktop\Monika\MimicsUpdation7-05-2019\MimicsUpdation7-05-2019\MimicsUpdation\bin\Debug\Google.Protobuf.dll
+C:\Users\SRKSDEV007\Desktop\Monika\MimicsUpdation7-05-2019\MimicsUpdation7-05-2019\MimicsUpdation\bin\Debug\EntityFramework.xml
+C:\Users\SRKSDEV007\Desktop\Monika\MimicsUpdation7-05-2019\MimicsUpdation7-05-2019\MimicsUpdation\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SRKSDEV007\Desktop\Monika\MimicsUpdation7-05-2019\MimicsUpdation7-05-2019\MimicsUpdation\bin\Debug\Google.Protobuf.xml
+C:\Users\SRKSDEV007\Desktop\Monika\MimicsUpdation7-05-2019\MimicsUpdation7-05-2019\MimicsUpdation\obj\Debug\MimicsUpdation.csprojAssemblyReference.cache
+C:\Users\SRKSDEV007\Desktop\Monika\MimicsUpdation7-05-2019\MimicsUpdation7-05-2019\MimicsUpdation\obj\Debug\MimicsUpdation.UpdateMimics.resources
+C:\Users\SRKSDEV007\Desktop\Monika\MimicsUpdation7-05-2019\MimicsUpdation7-05-2019\MimicsUpdation\obj\Debug\MimicsUpdation.Properties.Resources.resources
+C:\Users\SRKSDEV007\Desktop\Monika\MimicsUpdation7-05-2019\MimicsUpdation7-05-2019\MimicsUpdation\obj\Debug\MimicsUpdation.csproj.GenerateResource.cache
+C:\Users\SRKSDEV007\Desktop\Monika\MimicsUpdation7-05-2019\MimicsUpdation7-05-2019\MimicsUpdation\obj\Debug\MimicsUpdation.csproj.CoreCompileInputs.cache
+C:\Users\SRKSDEV007\Desktop\Monika\MimicsUpdation7-05-2019\MimicsUpdation7-05-2019\MimicsUpdation\obj\Debug\MimicsUpdation.csproj.CopyComplete
+C:\Users\SRKSDEV007\Desktop\Monika\MimicsUpdation7-05-2019\MimicsUpdation7-05-2019\MimicsUpdation\obj\Debug\MimicsUpdation.exe
+C:\Users\SRKSDEV007\Desktop\Monika\MimicsUpdation7-05-2019\MimicsUpdation7-05-2019\MimicsUpdation\obj\Debug\MimicsUpdation.pdb
+D:\Ashok\PLM\MimicsUpdation7-05-2019\MimicsUpdation\bin\Debug\MimicsUpdation.exe.config
+D:\Ashok\PLM\MimicsUpdation7-05-2019\MimicsUpdation\bin\Debug\MimicsUpdation.exe
+D:\Ashok\PLM\MimicsUpdation7-05-2019\MimicsUpdation\bin\Debug\MimicsUpdation.pdb
+D:\Ashok\PLM\MimicsUpdation7-05-2019\MimicsUpdation\bin\Debug\EntityFramework.dll
+D:\Ashok\PLM\MimicsUpdation7-05-2019\MimicsUpdation\bin\Debug\EntityFramework.SqlServer.dll
+D:\Ashok\PLM\MimicsUpdation7-05-2019\MimicsUpdation\bin\Debug\Google.Protobuf.dll
+D:\Ashok\PLM\MimicsUpdation7-05-2019\MimicsUpdation\bin\Debug\EntityFramework.xml
+D:\Ashok\PLM\MimicsUpdation7-05-2019\MimicsUpdation\bin\Debug\EntityFramework.SqlServer.xml
+D:\Ashok\PLM\MimicsUpdation7-05-2019\MimicsUpdation\bin\Debug\Google.Protobuf.xml
+D:\Ashok\PLM\MimicsUpdation7-05-2019\MimicsUpdation\obj\Debug\MimicsUpdation.csprojAssemblyReference.cache
+D:\Ashok\PLM\MimicsUpdation7-05-2019\MimicsUpdation\obj\Debug\MimicsUpdation.UpdateMimics.resources
+D:\Ashok\PLM\MimicsUpdation7-05-2019\MimicsUpdation\obj\Debug\MimicsUpdation.Properties.Resources.resources
+D:\Ashok\PLM\MimicsUpdation7-05-2019\MimicsUpdation\obj\Debug\MimicsUpdation.csproj.GenerateResource.cache
+D:\Ashok\PLM\MimicsUpdation7-05-2019\MimicsUpdation\obj\Debug\MimicsUpdation.csproj.CoreCompileInputs.cache
+D:\Ashok\PLM\MimicsUpdation7-05-2019\MimicsUpdation\obj\Debug\MimicsUpdation.csproj.CopyComplete
+D:\Ashok\PLM\MimicsUpdation7-05-2019\MimicsUpdation\obj\Debug\MimicsUpdation.exe
+D:\Ashok\PLM\MimicsUpdation7-05-2019\MimicsUpdation\obj\Debug\MimicsUpdation.pdb
+E:\Vignesh\DEMO20190625\SRKSDemo\Mimics\MimicsUpdation7-05-2019\MimicsUpdation\bin\Debug\MimicsUpdation.exe.config
+E:\Vignesh\DEMO20190625\SRKSDemo\Mimics\MimicsUpdation7-05-2019\MimicsUpdation\bin\Debug\MimicsUpdation.exe
+E:\Vignesh\DEMO20190625\SRKSDemo\Mimics\MimicsUpdation7-05-2019\MimicsUpdation\bin\Debug\MimicsUpdation.pdb
+E:\Vignesh\DEMO20190625\SRKSDemo\Mimics\MimicsUpdation7-05-2019\MimicsUpdation\bin\Debug\EntityFramework.dll
+E:\Vignesh\DEMO20190625\SRKSDemo\Mimics\MimicsUpdation7-05-2019\MimicsUpdation\bin\Debug\EntityFramework.SqlServer.dll
+E:\Vignesh\DEMO20190625\SRKSDemo\Mimics\MimicsUpdation7-05-2019\MimicsUpdation\bin\Debug\Google.Protobuf.dll
+E:\Vignesh\DEMO20190625\SRKSDemo\Mimics\MimicsUpdation7-05-2019\MimicsUpdation\bin\Debug\EntityFramework.xml
+E:\Vignesh\DEMO20190625\SRKSDemo\Mimics\MimicsUpdation7-05-2019\MimicsUpdation\bin\Debug\EntityFramework.SqlServer.xml
+E:\Vignesh\DEMO20190625\SRKSDemo\Mimics\MimicsUpdation7-05-2019\MimicsUpdation\bin\Debug\Google.Protobuf.xml
+E:\Vignesh\DEMO20190625\SRKSDemo\Mimics\MimicsUpdation7-05-2019\MimicsUpdation\obj\Debug\MimicsUpdation.UpdateMimics.resources
+E:\Vignesh\DEMO20190625\SRKSDemo\Mimics\MimicsUpdation7-05-2019\MimicsUpdation\obj\Debug\MimicsUpdation.Properties.Resources.resources
+E:\Vignesh\DEMO20190625\SRKSDemo\Mimics\MimicsUpdation7-05-2019\MimicsUpdation\obj\Debug\MimicsUpdation.csproj.GenerateResource.cache
+E:\Vignesh\DEMO20190625\SRKSDemo\Mimics\MimicsUpdation7-05-2019\MimicsUpdation\obj\Debug\MimicsUpdation.csproj.CoreCompileInputs.cache
+E:\Vignesh\DEMO20190625\SRKSDemo\Mimics\MimicsUpdation7-05-2019\MimicsUpdation\obj\Debug\MimicsUpdation.csproj.CopyComplete
+E:\Vignesh\DEMO20190625\SRKSDemo\Mimics\MimicsUpdation7-05-2019\MimicsUpdation\obj\Debug\MimicsUpdation.exe
+E:\Vignesh\DEMO20190625\SRKSDemo\Mimics\MimicsUpdation7-05-2019\MimicsUpdation\obj\Debug\MimicsUpdation.pdb
+G:\Monika\Maini\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\MimicsUpdation.exe.config
+G:\Monika\Maini\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\MimicsUpdation.exe
+G:\Monika\Maini\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\MimicsUpdation.pdb
+G:\Monika\Maini\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\EntityFramework.dll
+G:\Monika\Maini\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\EntityFramework.SqlServer.dll
+G:\Monika\Maini\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\Google.Protobuf.dll
+G:\Monika\Maini\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\EntityFramework.xml
+G:\Monika\Maini\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\EntityFramework.SqlServer.xml
+G:\Monika\Maini\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\Google.Protobuf.xml
+G:\Monika\Maini\latestmainimimicsForMaini20200127\MimicsUpdation\obj\Debug\MimicsUpdation.csprojAssemblyReference.cache
+G:\Monika\Maini\latestmainimimicsForMaini20200127\MimicsUpdation\obj\Debug\MimicsUpdation.UpdateMimics.resources
+G:\Monika\Maini\latestmainimimicsForMaini20200127\MimicsUpdation\obj\Debug\MimicsUpdation.Properties.Resources.resources
+G:\Monika\Maini\latestmainimimicsForMaini20200127\MimicsUpdation\obj\Debug\MimicsUpdation.csproj.GenerateResource.cache
+G:\Monika\Maini\latestmainimimicsForMaini20200127\MimicsUpdation\obj\Debug\MimicsUpdation.csproj.CoreCompileInputs.cache
+G:\Monika\Maini\latestmainimimicsForMaini20200127\MimicsUpdation\obj\Debug\MimicsUpdation.csproj.CopyComplete
+G:\Monika\Maini\latestmainimimicsForMaini20200127\MimicsUpdation\obj\Debug\MimicsUpdation.exe
+G:\Monika\Maini\latestmainimimicsForMaini20200127\MimicsUpdation\obj\Debug\MimicsUpdation.pdb
+D:\Ashok\MAINIDEMO\Monika\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\MimicsUpdation.exe.config
+D:\Ashok\MAINIDEMO\Monika\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\MimicsUpdation.exe
+D:\Ashok\MAINIDEMO\Monika\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\MimicsUpdation.pdb
+D:\Ashok\MAINIDEMO\Monika\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\EntityFramework.dll
+D:\Ashok\MAINIDEMO\Monika\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\EntityFramework.SqlServer.dll
+D:\Ashok\MAINIDEMO\Monika\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\Google.Protobuf.dll
+D:\Ashok\MAINIDEMO\Monika\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\EntityFramework.xml
+D:\Ashok\MAINIDEMO\Monika\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\EntityFramework.SqlServer.xml
+D:\Ashok\MAINIDEMO\Monika\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\Google.Protobuf.xml
+D:\Ashok\MAINIDEMO\Monika\latestmainimimicsForMaini20200127\MimicsUpdation\obj\Debug\MimicsUpdation.csprojAssemblyReference.cache
+D:\Ashok\MAINIDEMO\Monika\latestmainimimicsForMaini20200127\MimicsUpdation\obj\Debug\MimicsUpdation.UpdateMimics.resources
+D:\Ashok\MAINIDEMO\Monika\latestmainimimicsForMaini20200127\MimicsUpdation\obj\Debug\MimicsUpdation.Properties.Resources.resources
+D:\Ashok\MAINIDEMO\Monika\latestmainimimicsForMaini20200127\MimicsUpdation\obj\Debug\MimicsUpdation.csproj.GenerateResource.cache
+D:\Ashok\MAINIDEMO\Monika\latestmainimimicsForMaini20200127\MimicsUpdation\obj\Debug\MimicsUpdation.csproj.CoreCompileInputs.cache
+D:\Ashok\MAINIDEMO\Monika\latestmainimimicsForMaini20200127\MimicsUpdation\obj\Debug\MimicsUpdation.csproj.CopyComplete
+D:\Ashok\MAINIDEMO\Monika\latestmainimimicsForMaini20200127\MimicsUpdation\obj\Debug\MimicsUpdation.exe
+D:\Ashok\MAINIDEMO\Monika\latestmainimimicsForMaini20200127\MimicsUpdation\obj\Debug\MimicsUpdation.pdb
+D:\Manini_Project\Backend_Apps\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\MimicsUpdation.exe.config
+D:\Manini_Project\Backend_Apps\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\MimicsUpdation.exe
+D:\Manini_Project\Backend_Apps\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\MimicsUpdation.pdb
+D:\Manini_Project\Backend_Apps\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\BouncyCastle.Crypto.dll
+D:\Manini_Project\Backend_Apps\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\EntityFramework.dll
+D:\Manini_Project\Backend_Apps\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\EntityFramework.SqlServer.dll
+D:\Manini_Project\Backend_Apps\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\Google.Protobuf.dll
+D:\Manini_Project\Backend_Apps\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\K4os.Compression.LZ4.dll
+D:\Manini_Project\Backend_Apps\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Manini_Project\Backend_Apps\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\K4os.Hash.xxHash.dll
+D:\Manini_Project\Backend_Apps\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\MySql.Data.dll
+D:\Manini_Project\Backend_Apps\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\MySql.Data.EntityFramework.dll
+D:\Manini_Project\Backend_Apps\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\Renci.SshNet.dll
+D:\Manini_Project\Backend_Apps\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\System.Buffers.dll
+D:\Manini_Project\Backend_Apps\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\System.Memory.dll
+D:\Manini_Project\Backend_Apps\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Manini_Project\Backend_Apps\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\Ubiety.Dns.Core.dll
+D:\Manini_Project\Backend_Apps\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\Zstandard.Net.dll
+D:\Manini_Project\Backend_Apps\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\EntityFramework.xml
+D:\Manini_Project\Backend_Apps\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\EntityFramework.SqlServer.xml
+D:\Manini_Project\Backend_Apps\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\Google.Protobuf.pdb
+D:\Manini_Project\Backend_Apps\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\Google.Protobuf.xml
+D:\Manini_Project\Backend_Apps\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\K4os.Compression.LZ4.xml
+D:\Manini_Project\Backend_Apps\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Manini_Project\Backend_Apps\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\K4os.Hash.xxHash.xml
+D:\Manini_Project\Backend_Apps\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\MySql.Data.xml
+D:\Manini_Project\Backend_Apps\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\MySql.Data.EntityFramework.xml
+D:\Manini_Project\Backend_Apps\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\Renci.SshNet.xml
+D:\Manini_Project\Backend_Apps\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\System.Buffers.xml
+D:\Manini_Project\Backend_Apps\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\System.Memory.xml
+D:\Manini_Project\Backend_Apps\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Manini_Project\Backend_Apps\latestmainimimicsForMaini20200127\MimicsUpdation\obj\Debug\MimicsUpdation.csprojAssemblyReference.cache
+D:\Manini_Project\Backend_Apps\latestmainimimicsForMaini20200127\MimicsUpdation\obj\Debug\MimicsUpdation.UpdateMimics.resources
+D:\Manini_Project\Backend_Apps\latestmainimimicsForMaini20200127\MimicsUpdation\obj\Debug\MimicsUpdation.Properties.Resources.resources
+D:\Manini_Project\Backend_Apps\latestmainimimicsForMaini20200127\MimicsUpdation\obj\Debug\MimicsUpdation.csproj.GenerateResource.cache
+D:\Manini_Project\Backend_Apps\latestmainimimicsForMaini20200127\MimicsUpdation\obj\Debug\MimicsUpdation.csproj.CoreCompileInputs.cache
+D:\Manini_Project\Backend_Apps\latestmainimimicsForMaini20200127\MimicsUpdation\obj\Debug\MimicsUpdation.csproj.CopyComplete
+D:\Manini_Project\Backend_Apps\latestmainimimicsForMaini20200127\MimicsUpdation\obj\Debug\MimicsUpdation.exe
+D:\Manini_Project\Backend_Apps\latestmainimimicsForMaini20200127\MimicsUpdation\obj\Debug\MimicsUpdation.pdb
+D:\Manini_Project\Backend_Apps\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\MimicsUpdation.exe.manifest
+D:\Manini_Project\Backend_Apps\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\MimicsUpdation.application
+D:\Manini_Project\Backend_Apps\latestmainimimicsForMaini20200127\MimicsUpdation\obj\Debug\MimicsUpdation.exe.manifest
+D:\Manini_Project\Backend_Apps\latestmainimimicsForMaini20200127\MimicsUpdation\obj\Debug\MimicsUpdation.application
+D:\Manini_Project\Backend_Apps\maini backendapps\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\MimicsUpdation.exe.config
+D:\Manini_Project\Backend_Apps\maini backendapps\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\MimicsUpdation.exe.manifest
+D:\Manini_Project\Backend_Apps\maini backendapps\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\MimicsUpdation.application
+D:\Manini_Project\Backend_Apps\maini backendapps\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\MimicsUpdation.exe
+D:\Manini_Project\Backend_Apps\maini backendapps\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\MimicsUpdation.pdb
+D:\Manini_Project\Backend_Apps\maini backendapps\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\BouncyCastle.Crypto.dll
+D:\Manini_Project\Backend_Apps\maini backendapps\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\EntityFramework.dll
+D:\Manini_Project\Backend_Apps\maini backendapps\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\EntityFramework.SqlServer.dll
+D:\Manini_Project\Backend_Apps\maini backendapps\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\Google.Protobuf.dll
+D:\Manini_Project\Backend_Apps\maini backendapps\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\K4os.Compression.LZ4.dll
+D:\Manini_Project\Backend_Apps\maini backendapps\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Manini_Project\Backend_Apps\maini backendapps\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\K4os.Hash.xxHash.dll
+D:\Manini_Project\Backend_Apps\maini backendapps\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\MySql.Data.dll
+D:\Manini_Project\Backend_Apps\maini backendapps\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\MySql.Data.EntityFramework.dll
+D:\Manini_Project\Backend_Apps\maini backendapps\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\Renci.SshNet.dll
+D:\Manini_Project\Backend_Apps\maini backendapps\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\System.Buffers.dll
+D:\Manini_Project\Backend_Apps\maini backendapps\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\System.Memory.dll
+D:\Manini_Project\Backend_Apps\maini backendapps\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Manini_Project\Backend_Apps\maini backendapps\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\Ubiety.Dns.Core.dll
+D:\Manini_Project\Backend_Apps\maini backendapps\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\Zstandard.Net.dll
+D:\Manini_Project\Backend_Apps\maini backendapps\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\EntityFramework.xml
+D:\Manini_Project\Backend_Apps\maini backendapps\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\EntityFramework.SqlServer.xml
+D:\Manini_Project\Backend_Apps\maini backendapps\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\Google.Protobuf.pdb
+D:\Manini_Project\Backend_Apps\maini backendapps\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\Google.Protobuf.xml
+D:\Manini_Project\Backend_Apps\maini backendapps\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\K4os.Compression.LZ4.xml
+D:\Manini_Project\Backend_Apps\maini backendapps\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Manini_Project\Backend_Apps\maini backendapps\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\K4os.Hash.xxHash.xml
+D:\Manini_Project\Backend_Apps\maini backendapps\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\MySql.Data.xml
+D:\Manini_Project\Backend_Apps\maini backendapps\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\MySql.Data.EntityFramework.xml
+D:\Manini_Project\Backend_Apps\maini backendapps\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\Renci.SshNet.xml
+D:\Manini_Project\Backend_Apps\maini backendapps\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\System.Buffers.xml
+D:\Manini_Project\Backend_Apps\maini backendapps\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\System.Memory.xml
+D:\Manini_Project\Backend_Apps\maini backendapps\latestmainimimicsForMaini20200127\MimicsUpdation\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Manini_Project\Backend_Apps\maini backendapps\latestmainimimicsForMaini20200127\MimicsUpdation\obj\Debug\MimicsUpdation.csprojAssemblyReference.cache
+D:\Manini_Project\Backend_Apps\maini backendapps\latestmainimimicsForMaini20200127\MimicsUpdation\obj\Debug\MimicsUpdation.UpdateMimics.resources
+D:\Manini_Project\Backend_Apps\maini backendapps\latestmainimimicsForMaini20200127\MimicsUpdation\obj\Debug\MimicsUpdation.Properties.Resources.resources
+D:\Manini_Project\Backend_Apps\maini backendapps\latestmainimimicsForMaini20200127\MimicsUpdation\obj\Debug\MimicsUpdation.csproj.GenerateResource.cache
+D:\Manini_Project\Backend_Apps\maini backendapps\latestmainimimicsForMaini20200127\MimicsUpdation\obj\Debug\MimicsUpdation.csproj.CoreCompileInputs.cache
+D:\Manini_Project\Backend_Apps\maini backendapps\latestmainimimicsForMaini20200127\MimicsUpdation\obj\Debug\MimicsUpdation.exe.manifest
+D:\Manini_Project\Backend_Apps\maini backendapps\latestmainimimicsForMaini20200127\MimicsUpdation\obj\Debug\MimicsUpdation.application
+D:\Manini_Project\Backend_Apps\maini backendapps\latestmainimimicsForMaini20200127\MimicsUpdation\obj\Debug\MimicsUpdation.csproj.CopyComplete
+D:\Manini_Project\Backend_Apps\maini backendapps\latestmainimimicsForMaini20200127\MimicsUpdation\obj\Debug\MimicsUpdation.exe
+D:\Manini_Project\Backend_Apps\maini backendapps\latestmainimimicsForMaini20200127\MimicsUpdation\obj\Debug\MimicsUpdation.pdb

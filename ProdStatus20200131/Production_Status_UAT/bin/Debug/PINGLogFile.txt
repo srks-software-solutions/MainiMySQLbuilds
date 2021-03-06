@@ -1,0 +1,6 @@
+2019-12-17 12:08:43:  Pinging Status of 10.15.20.213: False
+2019-12-17 12:08:52:  Pinging Status of 10.15.20.213: False
+2019-12-17 12:08:59:  Pinging Status of 10.15.20.213: False
+2019-12-17 12:19:56:  Pinging Status of 10.15.20.213: False
+2019-12-17 12:20:04:  Pinging Status of 10.15.20.213: False
+2020-02-19 12:54:13:  Pinging Status of 172.16.20.80: False

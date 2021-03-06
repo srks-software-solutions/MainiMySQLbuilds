@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MimicsUpdation", "MimicsUpdation\MimicsUpdation.csproj", "{B50D113C-7A84-4DA5-83C3-CF286E483261}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B50D113C-7A84-4DA5-83C3-CF286E483261}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B50D113C-7A84-4DA5-83C3-CF286E483261}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B50D113C-7A84-4DA5-83C3-CF286E483261}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B50D113C-7A84-4DA5-83C3-CF286E483261}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CE6E187-BCDC-4639-A9BF-18622CAFC9F2}
+	EndGlobalSection
+EndGlobal
